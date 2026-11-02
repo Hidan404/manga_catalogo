@@ -1,0 +1,34 @@
+{
+  "tipo": "manga",
+  "obra": {
+    "titulo": "Death Note: Black Edition",
+    "autor": "Tsugumi Ohba",
+    "genero": "Shounen",
+    "status": "Concluido",
+    "artista": "Takeshi Obata",
+    "data_lancamento": "2013-06-01",
+    "sinopse": "Sem nada de interessante para fazer no mundo dos shinigamis, Ryuk deixa cair intencionalmente na Terra o seu Death Note, um caderno com poderes macabros: quem tem o nome de alguem escrito nele e conhece seu rosto morre. Light Yagami, um estudante genio e insatisfeito, encontra o caderno e decide eliminar os criminosos do mundo para se tornar o deus de um novo mundo — mas o melhor detetive do mundo, L, parte para caçar o Kira. A Black Edition recompoe os 12 volumes originais em 6 volumes 2-em-1.",
+    "capa_url": null
+  },
+  "volumes_possuidos": [1],
+  "controle": {
+    "edicao_brasil": "JBC — Black Edition (junho a dezembro de 2013, bimestral)",
+    "titulo_original": "Death Note",
+    "autores": "Tsugumi Ohba (roteiro); Takeshi Obata (arte)",
+    "editora_original": "Shueisha (Weekly Shōnen Jump, 2003-2006)",
+    "estrutura": "6 volumes 2-em-1 (cada um = 2 volumes da edicao classica); ~400 paginas cada",
+    "volumes_publicados_brasil": 6,
+    "volumes_totais_japao": 6,
+    "status_brasil": "Completa — 6 volumes Black Edition (a obra tem 12 volumes classicos + How to Read)",
+    "volumes_faltantes": [2, 3, 4, 5, 6],
+    "observacao": "Ja existiu edicao classica JBC (12 vols, 2007-2008) e ha o volume especial 'How to Read' (JBC, 2008). A Black Edition foi distribuida no Brasil pela JBC a partir de jun/2013, com capa envernizada e 400 paginas.",
+    "isbn_volumes": {
+      "1": "978-85-7787-685-3",
+      "2": "978-85-7787-686-0",
+      "3": null,
+      "4": "978-85-7787-705-8",
+      "5": "978-85-7787-747-8",
+      "6": "978-85-7787-766-9"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "tipo": "manga",
+  "obra": {
+    "titulo": "Contos de Horror da Mimi",
+    "autor": "Junji Ito",
+    "genero": "Seinen",
+    "status": "Concluido",
+    "artista": "Junji Ito",
+    "data_lancamento": "2022-11-08",
+    "sinopse": "A realidade e mais estranha que a ficcao. Mimi, uma estudante universitaria, tem sua rotina incessantemente invadida por eventos sobrenaturais: encontros macabros com a morte, vizinhos sinistros, forcas ocultas que ela passa a acreditar cada vez mais — em conflito com seu namorado cetico. Baseado nos relatos reais do livro Shin Mimibukuro, Junji Ito os transpoe para o mangas dando continuidade a tradicao milenar dos kaidan, os contos de horror e fantasmas. Inclui tambem 'O Boneco de Assombração'.",
+    "capa_url": null
+  },
+  "volumes_possuidos": [1],
+  "controle": {
+    "edicao_brasil": "DarkSide Books — Edicao Completa (8 de novembro de 2022)",
+    "titulo_original": "Mimi no Kaidan (耳袋)",
+    "autores_adaptacao": "Junji Ito; fonte: Hirokatsu Kihara e Ichiro Nakayama (Shin Mimibukuro)",
+    "editora_original": "Serializado na revista Comic Flapper (jun/2002 - abr/2003); volume unico no Japao em 2003",
+    "volumes_publicados_brasil": 1,
+    "volumes_totais_japao": 1,
+    "status_brasil": "Completa — volume unico, 248 paginas, capa dura",
+    "volumes_faltantes": [],
+    "observacao": "Saida pela DarkSide Books (selo DarkSide Graphic Novel). Serializado na revista Comic Flapper entre jun/2002 e abr/2003, compilado em volume unico no Japao. Existe um Box dos Horrores Junji Ito (Fragmentos do Horror + Contos de Horror da Mimi, ISBN 9786555985894).",
+    "isbn_volumes": {
+      "1": "978-655598-223-7"
+    }
+  }
+}

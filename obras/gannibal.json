@@ -1,0 +1,35 @@
+{
+  "tipo": "manga",
+  "obra": {
+    "titulo": "Gannibal",
+    "autor": "Masaaki Ninomiya",
+    "genero": "Seinen",
+    "status": "Em lancamento",
+    "artista": "Masaaki Ninomiya",
+    "data_lancamento": null,
+    "sinopse": "Daigo, um agente policial, e transferido para uma vila remota nas montanhas para substituir um oficial que desapareceu por la. Diante de acontecimentos bizarros e do silencio hostil dos habitantes, ele relembra as palavras de seu antecessor: essas pessoas comem gente! Um thriller de horror sobre os segredos sombrios de uma comunidade isolada.",
+    "capa_url": null
+  },
+  "volumes_possuidos": [1, 2, 3, 4, 5, 6],
+  "controle": {
+    "edicao_brasil": "MPEG",
+    "titulo_brasil": "Gannibal: Vila de Canibais",
+    "titulo_original": "Gannibal (ガンニバル)",
+    "editora_original": "Nihon Bungeisha (Weekly Manga Goraku)",
+    "demografia": "Seinen — classificacao 18 anos",
+    "volumes_publicados_brasil": 6,
+    "volumes_totais_japao": 13,
+    "status_brasil": "Em publicacao — lancado desde janeiro/2024; parada por renovacao de contrato (set/2025 a jun/2026); vol. 6 em julho/2026 e vol. 7 previsto para agosto/2026",
+    "volumes_faltantes": [7, 8, 9, 10, 11, 12, 13],
+    "observacao": "Obra concluida no Japao em 2021 (13 vols). Adaptacao live-action na Disney+/Star+ (2022-2025). Novo preco da MPEG a partir do vol. 6: R$ 49,90.",
+    "isbn_volumes": {
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null,
+      "5": null,
+      "6": null,
+      "7": "978-65-6203-003-7"
+    }
+  }
+}

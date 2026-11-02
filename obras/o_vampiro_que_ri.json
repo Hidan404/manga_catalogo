@@ -1,0 +1,31 @@
+{
+  "tipo": "manga",
+  "obra": {
+    "titulo": "O Vampiro que Ri",
+    "autor": "Suehiro Maruo",
+    "genero": "Seinen",
+    "status": "Concluido",
+    "artista": "Suehiro Maruo",
+    "data_lancamento": "2025-09-26",
+    "sinopse": "Numa Tóquio que transborda solidão e violência juvenil, vampiros caçam novas vítimas como se esmagassem insetos. Em meio a drogas, sadismo e depravação, um garoto procura a irmã perdida e um jovem é iniciado por uma vampira em novos prazeres. Opere-prima do ero-guro de Suehiro Maruo atualiza o mito do vampiro ligando-o à solidão e ao cinismo de uma geração, em traço virtuoso inspirado no Grand Guignol. Acompanha o volume 2, Paraíso – O Sorriso do Vampiro, que encerra a trágica epopeia pós-morte dos amantes amaldiçoados por uma juventude eterna.",
+    "capa_url": null
+  },
+  "volumes_possuidos": [1, 2],
+  "controle": {
+    "edicao_brasil": "Pipoca & Nanquim (selo Drago) — nova edição, 2025/2026",
+    "titulo_original": "Warau Kyūketsuki (笑う吸血鬼) — The Laughing Vampire",
+    "editora_original": "Akita Shoten (Young Champion)",
+    "titulo_vol_2": "Paraíso – O Sorriso do Vampiro",
+    "edicao_anterior_brasil": "Conrad (2004-2006), também em 2 volumes",
+    "volumes_publicados_brasil": 2,
+    "volumes_totais_japao": 2,
+    "status_brasil": "Completa — nova edição P&N em 2 volumes (vol. 1 set/2025; vol. 2 mar/2026)",
+    "volumes_faltantes": [],
+    "classificacao": "Conteudo adulto (ero-guro); classificacao 18 anos",
+    "observacao": "Vol. 2 com titulo proprio: 'Paraíso – O Sorriso do Vampiro'. Serializado 1998-1999 com sequencia de 2003-2004 no Japao.",
+    "isbn_volumes": {
+      "1": "978-655448-246-2",
+      "2": null
+    }
+  }
+}

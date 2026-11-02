@@ -1,0 +1,13 @@
+{
+  "tipo": "livro",
+  "obra": {
+    "titulo": "Jujutsu Kaisen: Guia Oficial",
+    "autor": "Gege Akutami",
+    "genero": "Guia / Referencia",
+    "isbn": null,
+    "data_publicacao": "2022-04-05",
+    "ano": 2022,
+    "sinopse": "Guia oficial de Jujutsu Kaisen pela Panini: perfis dos personagens, informacoes sobre a serie, comentarios do autor Gege Akutami sobre os capitulos dos volumes 0 a 15, mais de 350 perguntas respondidas pelo criador sobre os personagens, seus filmes, mangas e animes favoritos, e entrevista especial de Akutami com Tite Kubo (Bleach). 232 paginas.",
+    "capa_url": null
+  }
+}

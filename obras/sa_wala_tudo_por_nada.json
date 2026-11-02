@@ -1,0 +1,28 @@
+{
+  "tipo": "manga",
+  "obra": {
+    "titulo": "Sa Wala: Tudo por Nada",
+    "autor": "Renren Galeno",
+    "genero": "Terror",
+    "status": "Concluido",
+    "artista": "Renren Galeno",
+    "data_lancamento": "2025-03-28",
+    "sinopse": "Numa fazenda na zona rural das Filipinas, um galo de briga foge deixando para tras uma cena de fogo. Perdido na estrada, ele se depara com Anding, um taxista endividado com uma familia para sustentar. Ao ver um potencial destrutivo naquela fera, Anding o coloca para competir nas rinhas — e o galo se torna campeao imbativel, rendendo o dinheiro que a familia precisava. O que parece sorte grande vira um verdadeiro pesadelo quando o galo mostra o quao sanguinario ele realmente e. Fábula de vinganca e violencia do quadrinho filipino.",
+    "capa_url": null
+  },
+  "volumes_possuidos": [1],
+  "controle": {
+    "edicao_brasil": "Pipoca & Nanquim (28 de marco de 2025) — volume unico",
+    "titulo_original": "Sa Wala",
+    "nacionalidade": "Filipinas — publicado originalmente pela Komiket",
+    "generos": "Terror, drama psicologico, sobrenatural",
+    "volumes_publicados_brasil": 1,
+    "volumes_originais": 1,
+    "status_brasil": "Completa — volume unico, 228 paginas",
+    "volumes_faltantes": [],
+    "observacao": "Primeiro trabalho longo de Renren Galeno, artista da nova cena do quadrinho filipino. Capa cartonada com corte trilateral preto, sem sobrecapa; marcador de paginas. Classificacao 12 anos.",
+    "isbn_volumes": {
+      "1": "978-655448-075-8"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "tipo": "manga",
+  "obra": {
+    "titulo": "Made in Abyss",
+    "autor": "Akihito Tsukushi",
+    "genero": "Seinen",
+    "status": "Em lancamento",
+    "artista": "Akihito Tsukushi",
+    "data_lancamento": "2018-07-06",
+    "sinopse": "Um enorme sistema de pocos e cavernas chamado Abismo e o unico lugar inexplorado no mundo. Criaturas estranhas residem em suas profundezas, cheias de preciosas reliquias que os seres humanos comuns nao poderiam fabricar. A orfa Rico vive na cidade a beira do abismo e sonha em se tornar uma exploradora de cavernas como sua mae. Um dia, ela parte em direcao as profundezas apos encontrar um robo que se assemelha a uma crianca humana.",
+    "capa_url": null
+  },
+  "volumes_possuidos": [
+    1, 2, 3, 4, 5, 6, 7, 8, 9, 10,
+    11, 12, 13
+  ],
+  "controle": {
+    "edicao_brasil": "NewPOP",
+    "titulo_original": "Made in Abyss (メイドインアビス)",
+    "volumes_publicados_brasil": 13,
+    "volumes_totais_japao": 15,
+    "status_brasil": "Em publicacao — colecao BR completa com os 13 volumes lancados; NewPOP atrasada (Japao ja tem 15)",
+    "volumes_faltantes": [],
+    "proximos_do_japao": [14, 15],
+    "observacao": "Obra em andamento no Japao (Takeshobo, desde 2013). NewPOP lanca com atraso: #14 e #15 ainda nao anunciados no Brasil. Quando sairem, adicionar aqui e rodar o sync.",
+    "isbn_volumes": {}
+  }
+}

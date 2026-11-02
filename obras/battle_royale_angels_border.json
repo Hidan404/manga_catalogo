@@ -1,0 +1,27 @@
+{
+  "tipo": "manga",
+  "obra": {
+    "titulo": "Battle Royale: Angels' Border",
+    "autor": "Koushun Takami",
+    "genero": "Seinen",
+    "status": "Concluido",
+    "artista": "Mioko Ohnishi; Youhei Oguma",
+    "data_lancamento": "2014-09-01",
+    "sinopse": "Numa realidade alternativa, a Grande Republica do Leste Asiatico implantou O Programa: uma classe do terceiro ano do ginásio e jogada numa ilha para lutar ate que um unico sobreviva. Conhecemos a turma de Shiroiwa na trama principal, mas uma historia ficou por contar: o que aconteceu com as meninas do farol? Yukie Utsumi e suas cinco amigas juraram nao participar da loucura e se refugiaram no velho farol da ilha, deixando seus dramas ocultos. Ate agora. Roteiro do autor do romance Battle Royale, em formato manga.",
+    "capa_url": null
+  },
+  "volumes_possuidos": [1],
+  "controle": {
+    "edicao_brasil": "NewPOP (setembro/2014)",
+    "titulo_original": "Battle Royale: Angels' Border (バトル・ロワイアル 天使たちの国境)",
+    "editora_original": "Akita Shoten (Young Champion)",
+    "volumes_publicados_brasil": 1,
+    "volumes_totais_japao": 1,
+    "status_brasil": "Completa — volume unico (Japao jan/2012; Brasil set/2014)",
+    "volumes_faltantes": [],
+    "observacao": "Spin-off do romance Battle Royale (Koushun Takami). Paginas: 250 (NewPOP) / 270 (Guia dos Quadrinhos). Classificacao 18 anos.",
+    "isbn_volumes": {
+      "1": "978-85-8362-021-1"
+    }
+  }
+}

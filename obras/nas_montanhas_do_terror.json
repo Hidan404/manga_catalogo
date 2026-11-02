@@ -1,0 +1,29 @@
+{
+  "tipo": "manga",
+  "obra": {
+    "titulo": "Nas Montanhas do Terror",
+    "autor": "Junpei Azumi",
+    "genero": "Josei",
+    "status": "Concluido",
+    "artista": "Junji Ito; Mimika Ito; Akemi Inokawa; Daisuke Imai; Akihito Yoshitomi",
+    "data_lancamento": "2023-11-01",
+    "sinopse": "Coletane de cinco historias de terror com roteiro do alpinista e escritor Junpei Azumi. Existem coisas que nao sao desse mundo nas montanhas: seres mais assustadores que um fantasma guardam a serra, acidentes ocorrem sem maiores explicacoes e uma alma perdida busca ajuda para enfim descansar em paz. Contos publicados originalmente entre 2014 e 2017 na revista Honkowa.",
+    "capa_url": null
+  },
+  "volumes_possuidos": [1],
+  "controle": {
+    "edicao_brasil": "Conrad (outubro/novembro de 2023)",
+    "titulo_original": "Yamakaidan (山怪談)",
+    "roteirista": "Junpei Azumi",
+    "desenhistas": "Junji Ito; Mimika Ito; Akemi Inokawa; Daisuke Imai; Akihito Yoshitomi",
+    "editora_original": "Asahi Shimbunsha (Honkowa, 2014-2017; volume unico mar/2018)",
+    "volumes_publicados_brasil": 1,
+    "volumes_totais_japao": 1,
+    "status_brasil": "Completa — volume unico, 192 paginas, capa cartao com sobrecapa",
+    "volumes_faltantes": [],
+    "observacao": "Segundo manga da Conrad em sua volta aos quadrinhos japoneses (apos A Noite da Princesa Uriko). Marcador de paginas exclusivo; R$ 54,90 na capa.",
+    "isbn_volumes": {
+      "1": "978-655803-202-1"
+    }
+  }
+}

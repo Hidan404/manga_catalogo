@@ -1,0 +1,77 @@
+{
+  "tipo": "manga",
+  "obra": {
+    "titulo": "Jujutsu Kaisen",
+    "autor": "Gege Akutami",
+    "genero": "Shounen",
+    "status": "Concluido",
+    "artista": "Gege Akutami",
+    "data_lancamento": "2020-08-03",
+    "sinopse": "Yuji Itadori, um estudante com habilidades fisicas sobre-humanas, se vê envolvido no mundo das maldicoes ao consumir um dedo de Ryomen Sukuna, o temido Rei das Maldicoes. Salvo pelo feiticeiro Satoru Gojo, ele passa a frequentar a Escola Tecnica de Feiticeiro de Tóquio e a lutar contra entidades sobrenaturais enquanto busca engolir os demais dedos de Sukuna e findar a ameaca.",
+    "capa_url": null
+  },
+  "volumes_possuidos": [
+    1, 2, 3, 4, 5, 6, 7, 8, 9, 10,
+    11, 12, 13, 14, 15, 16, 17, 18, 19, 20,
+    21, 22, 23, 24, 25, 26, 27, 28, 29, 30
+  ],
+  "controle": {
+    "edicao_brasil": "Panini (Planet Manga)",
+    "titulo_original": "Jujutsu Kaisen (呪術廻戦)",
+    "editora_original": "Shueisha (Weekly Shōnen Jump)",
+    "volumes_publicados_brasil": 31,
+    "volumes_totais_japao": 30,
+    "status_brasil": "Completa — 31 volumes (0 a 30), vols. 29 e 30 lancados em setembro/2025",
+    "volumes_faltantes": [],
+    "itens_especiais": [
+      {
+        "item": "Jujutsu Kaisen 0",
+        "tipo": "prequel / volume 0",
+        "possuido": true,
+        "isbn_brasil": "978-65-5512-727-0",
+        "lancamento_brasil": "2021-03-13",
+        "observacao": "NAO cadastrado como volume na API: o endpoint exige numero >= 1. Registrado aqui no controle."
+      },
+      {
+        "item": "Jujutsu Kaisen: Guia Oficial",
+        "tipo": "livro (cadastrado como obra separada na API)",
+        "possuido": true,
+        "arquivo": "obras/jujutsu_kaisen_guia_oficial.json",
+        "lancamento_brasil": "2022-04-05",
+        "observacao": "232 paginas: perfis, comentarios do autor sobre os vols. 0 a 15, +350 perguntas respondidas por Akutami e entrevista com Tite Kubo."
+      }
+    ],
+    "isbn_volumes": {
+      "1": "978-65-551-2207-7",
+      "2": "978-65-551-2367-8",
+      "3": "978-65-5512-580-1",
+      "4": "978-65-5512-818-5",
+      "5": "978-65-5960-020-5",
+      "6": "978-65-5960-191-2",
+      "7": "978-65-5982-270-6",
+      "8": "978-65-5982-132-7",
+      "9": "978-65-5982-022-1",
+      "10": "978-65-5960-940-6",
+      "11": "978-65-596-0806-5",
+      "12": "978-65-596-0699-3",
+      "13": "978-65-596-0612-2",
+      "14": "978-65-596-0539-2",
+      "15": "978-65-596-0474-6",
+      "16": "978-65-596-0320-6",
+      "17": "978-65-596-0832-4",
+      "18": "978-65-259-0387-3",
+      "19": "978-65-259-0135-0",
+      "20": "978-65-5982-772-5",
+      "21": "978-65-259-1288-2",
+      "22": "978-65-259-0840-3",
+      "23": "978-65-259-2275-1",
+      "24": "978-65-259-1969-0",
+      "25": "978-65-259-1610-1",
+      "26": "978-65-259-2987-3",
+      "27": "978-65-259-2834-0",
+      "28": null,
+      "29": null,
+      "30": null
+    }
+  }
+}

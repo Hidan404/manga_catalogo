@@ -1,0 +1,196 @@
+============================================================
+ CATALOGO DE OBRAS — indice geral
+ Pasta: ~/Documentos/manga_catalogo
+ (toda obra nova = entrada nova no fim deste arquivo)
+============================================================
+
+[API id 3] Black Clover
+------------------------------------------------------------
+ Titulo original : Black Clover
+ Autor           : Yuki Tabata
+ Editora (BR)    : Panini
+ Status          : Concluido no Japao (38 vols); Brasil 37 vols publicados
+ Possuidos       : 1-31 e 37 (32 volumes)
+ Faltantes       : 32, 33, 34, 35, 36 (e 38 quando a Panini lancar)
+ Arquivo         : obras/black_clover.json
+ Cadastrado em   : 2026-10-30
+
+[API id 4] Magi
+------------------------------------------------------------
+ Titulo original : Magi (マギ)
+ Titulo BR       : Magi: O Labirinto da Magia
+ Autora          : Shinobu Ohtaka
+ Editora (BR)    : JBC
+ Status          : Concluido — completa no Japao (37) e no Brasil (37)
+ Possuidos       : 1-33 (33 volumes)
+ Faltantes       : 34, 35, 36, 37
+ Arquivo         : obras/magi.json
+ Cadastrado em   : 2026-10-30
+
+Made in Abyss
+------------------------------------------------------------
+ Titulo original : Made in Abyss (メイドインアビス)
+ Autor           : Akihito Tsukushi
+ Editora (BR)    : NewPOP
+ Demografia      : Seinen
+ Status          : Em publicacao (Japao: 15 vols; Brasil: 13 vols)
+ Possuidos       : 1-13 (13 volumes) — colecao BR completa
+ Faltantes       : nenhum no Brasil (vols. 14 e 15 so no Japao ainda)
+ Arquivo         : obras/made_in_abyss.json
+ Cadastrado em   : 2026-10-30 (API id 5)
+
+Duranki
+------------------------------------------------------------
+ Titulo original : Duranki (ドゥルアンキ)
+ Autor           : Kentaro Miura; Studio Gaga
+ Editora (BR)    : Panini (edicao unica, jan/2024)
+ Demografia      : Seinen
+ Status          : Concluido — volume unico completo (BR e Japao)
+ Possuidos       : 1 (volume unico)
+ Faltantes       : nenhum
+ ISBN (BR)       : 978-65-259-2278-2
+ Arquivo         : obras/duranki.json
+ Cadastrado em   : 2026-10-30 (API id 6)
+
+Bestiarius
+------------------------------------------------------------
+ Titulo original : Bestiarius (闘獣士)
+ Autor           : Masasumi Kakizaki
+ Editora (BR)    : Panini / Planet Manga (2016-2019)
+ Demografia      : Shounen
+ Status          : Concluido — completa (7 vols no Japao e no Brasil)
+ Possuidos       : 1-7 (7 volumes) — colecao completa
+ Faltantes       : nenhum
+ ISBNs (BR)      : vols. 1-5 confirmados no arquivo JSON
+ Arquivo         : obras/bestiarius.json
+ Cadastrado em   : 2026-10-30 (API id 7)
+
+O Vampiro que Ri
+------------------------------------------------------------
+ Titulo original : Warau Kyūketsuki (笑う吸血鬼)
+ Autor           : Suehiro Maruo
+ Editora (BR)    : Pipoca & Nanquim / Drago (nova ed., 2025-2026)
+ Demografia      : Seinen
+ Status          : Concluido — completa (2 vols no Japao e no Brasil)
+ Possuidos       : 1-2 (2 volumes) — colecao completa
+                   vol. 2 intitulado "Paraíso – O Sorriso do Vampiro"
+ Faltantes       : nenhum
+ ISBN (BR)       : vol. 1: 978-655448-246-2 | vol. 2: a confirmar
+ Arquivo         : obras/o_vampiro_que_ri.json
+ Cadastrado em   : 2026-10-30 (API id 8)
+
+Jujutsu Kaisen
+------------------------------------------------------------
+ Titulo original : Jujutsu Kaisen (呪術廻戦)
+ Autor           : Gege Akutami
+ Editora (BR)    : Panini / Planet Manga (2020-2025)
+ Demografia      : Shounen
+ Status          : Concluido — completa (Japao fim 2024; BR vols 29-30 set/2025)
+ Possuidos       : vol. 0 + 1-30 (31 volumes) — colecao completa
+ Faltantes       : nenhum
+ Nota            : vol. 0 NAO vai para a API (numero minimo de volume = 1);
+                   registrado no controle do JSON. Guia Oficial cadastrado
+                   como livro separado (ver abaixo).
+ ISBN (BR)       : vols. 0-27 confirmados no arquivo JSON; 28-30 pendentes
+ Arquivo         : obras/jujutsu_kaisen.json
+ Cadastrado em   : 2026-10-30 (API id 9; volumes 1-30)
+
+Jujutsu Kaisen: Guia Oficial  [LIVRO]
+------------------------------------------------------------
+ Autor           : Gege Akutami
+ Editora (BR)    : Panini (05/04/2022, 232 paginas)
+ Conteudo        : perfis, comentarios do autor sobre vols. 0-15,
+                   +350 perguntas, entrevista Akutami x Tite Kubo
+ Arquivo         : obras/jujutsu_kaisen_guia_oficial.json
+ Cadastrado em   : 2026-10-30 (API livro id 3)
+
+Gannibal
+------------------------------------------------------------
+ Titulo original : Gannibal (ガンニバル)
+ Titulo BR       : Gannibal: Vila de Canibais
+ Autor           : Masaaki Ninomiya
+ Editora (BR)    : MPEG (desde janeiro/2024)
+ Demografia      : Seinen (18 anos)
+ Status          : Em publicacao — Japao completo (13 vols, 2021);
+                   Brasil com 6 vols., vol. 7 previsto ago/2026
+ Possuidos       : 1-6 (6 volumes) — em dia com o Brasil
+ Faltantes       : 7, 8, 9, 10, 11, 12, 13
+ Nota            : parada de set/2025 a jun/2026 por renovacao de contrato;
+                   adaptacao live-action na Disney+ (Canibal)
+ Arquivo         : obras/gannibal.json
+ Cadastrado em   : 2026-10-30 (API id 10; volumes 1-6)
+
+Battle Royale: Angels' Border
+------------------------------------------------------------
+ Titulo original : Battle Royale: Angels' Border (バトル・ロワイアル 天使たちの国境)
+ Roteiro         : Koushun Takami (autor do romance Battle Royale)
+ Arte            : Mioko Ohnishi; Youhei Oguma
+ Editora (BR)    : NewPOP (setembro/2014) — edicao unica
+ Demografia      : Seinen
+ Status          : Concluido — volume unico completo (BR e Japao)
+ Possuidos       : 1 (volume unico)
+ Faltantes       : nenhum
+ ISBN (BR)       : 978-85-8362-021-1
+ Arquivo         : obras/battle_royale_angels_border.json
+ Cadastrado em   : 2026-10-30 (API id 11; volume unico)
+
+Contos de Horror da Mimi
+------------------------------------------------------------
+ Titulo original : Mimi no Kaidan (耳袋)
+ Autor           : Junji Ito (fonte: Hirokatsu Kihara; Ichiro Nakayama)
+ Editora (BR)    : DarkSide Books — Ed. Completa (nov/2022)
+ Demografia      : Seinen — horror / kaidan
+ Status          : Concluido — volume unico completo (BR e Japao)
+ Possuidos       : 1 (volume unico)
+ Faltantes       : nenhum
+ ISBN (BR)       : 978-655598-223-7
+ Nota            : 248 paginas, capa dura; existe Box dos Horrores
+                   (Fragmentos do Horror + Mimi, ISBN 9786555985894)
+ Arquivo         : obras/contos_de_horror_da_mimi.json
+ Cadastrado em   : 2026-10-30 (API id 12; volume unico)
+
+Nas Montanhas do Terror
+------------------------------------------------------------
+ Titulo original : Yamakaidan (山怪谈)
+ Roteiro         : Junpei Azumi (escritor e alpinista)
+ Arte            : Junji Ito; Mimika Ito; Akemi Inokawa;
+                   Daisuke Imai; Akihito Yoshitomi
+ Editora (BR)    : Conrad (out./nov. 2023) — edicao unica
+ Demografia      : Josei — coletanea de terror (Honkowa)
+ Status          : Concluido — volume unico completo (BR e Japao)
+ Possuidos       : 1 (volume unico)
+ Faltantes       : nenhum
+ ISBN (BR)       : 978-655803-202-1
+ Arquivo         : obras/nas_montanhas_do_terror.json
+ Cadastrado em   : 2026-10-30 (API id 13; volume unico)
+
+Death Note: Black Edition
+------------------------------------------------------------
+ Titulo original : Death Note
+ Autores          : Tsugumi Ohba (roteiro); Takeshi Obata (arte)
+ Editora (BR)    : JBC — Black Edition (jun.-dez. 2013)
+ Demografia      : Shounen
+ Status          : Concluido — obra completa; Black Edition BR com 6 vols
+ Possuidos       : 1 (volume unico 2-em-1) — INCOMPLETA
+ Faltantes       : 2, 3, 4, 5, 6
+ ISBNs (BR)      : vols. 1,2,4,5,6 confirmados; vol. 3 pendente
+ Nota            : cada vol. da Black Edition = 2 vols da edicao classica
+                   (12 vols JBC 2007-2008). Existe tambem 'How to Read'
+                   (JBC, 2008) como volume especial.
+ Arquivo         : obras/death_note_black_edition.json
+ Cadastrado em   : 2026-10-30 (API id 14; volume 1)
+
+Sa Wala: Tudo por Nada
+------------------------------------------------------------
+ Titulo original : Sa Wala (Filipinas — Komiket)
+ Autor           : Renren Galeno (roteiro e arte)
+ Editora (BR)    : Pipoca & Nanquim (28/03/2025) — volume unico
+ Genero          : Terror / drama psicologico (quadrinho filipino)
+ Status          : Concluido — volume unico completo
+ Possuidos       : 1 (volume unico)
+ Faltantes       : nenhum
+ ISBN (BR)       : 978-655448-075-8
+ Nota            : 228 paginas; primeiro trabalho longo de Galeno,
+                   artista da nova cena do quadrinho filipino
+ Arquivo         : obras/sa_wala_tudo_por_nada.json
+ Cadastrado em   : 2026-10-30 (aguardando sync na API)

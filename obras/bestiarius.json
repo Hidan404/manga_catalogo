@@ -1,0 +1,33 @@
+{
+  "tipo": "manga",
+  "obra": {
+    "titulo": "Bestiarius",
+    "autor": "Masasumi Kakizaki",
+    "genero": "Shounen",
+    "status": "Concluido",
+    "artista": "Masasumi Kakizaki",
+    "data_lancamento": "2016-11-01",
+    "sinopse": "Roma luta para conquistar o mundo inteiro e toda a Europa foi invadida por ela. Enquanto isso, gladiadores apostam suas vidas em combates ferozes contra bestas formidaveis na arena: uma batalha incansavel ate a morte. Forcados a lutar contra varios animais na Roma antica, esses guerreiros sao conhecidos como bestiarios.",
+    "capa_url": null
+  },
+  "volumes_possuidos": [1, 2, 3, 4, 5, 6, 7],
+  "controle": {
+    "edicao_brasil": "Panini (Planet Manga)",
+    "titulo_original": "Bestiarius (闘獣士)",
+    "editora_original": "Shogakukan (Shonen Sunday / Sunday S)",
+    "volumes_publicados_brasil": 7,
+    "volumes_totais_japao": 7,
+    "status_brasil": "Completa — publicada de novembro/2016 a agosto/2019",
+    "volumes_faltantes": [],
+    "observacao": "Fantasia historica com gladiadores, dragoes e orcs numa Roma ficticia. Autor do mesmo traço de Rainbow e Green Blood; obra concluida em 7 volumes no Japao (2018).",
+    "isbn_volumes": {
+      "1": "978-85-426-0532-7",
+      "2": "978-85-426-0559-4",
+      "3": "978-85-426-0588-4",
+      "4": "978-85-426-0694-2",
+      "5": "978-85-426-0861-8",
+      "6": null,
+      "7": null
+    }
+  }
+}

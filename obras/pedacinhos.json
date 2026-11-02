@@ -1,0 +1,29 @@
+{
+  "tipo": "manga",
+  "obra": {
+    "titulo": "Pedacinhos",
+    "autor": "Shintaro Kago",
+    "genero": "Horror",
+    "status": "Concluido",
+    "artista": "Shintaro Kago",
+    "data_lancamento": "2024-02-02",
+    "sinopse": "Uma serie de assassinatos assusta os moradores do distrito de Setagaya, em Tóquio, onde sao encontradas mulheres com os corpos divididos ao meio: o autor dos crimes, ainda nao identificado, e apelidado de Maniaco Fatiador. Pedacinhos se desenrola em meio a esses misteriosos assassinatos, alternando duas narrativas paralelas que se entrelacam com a propria vida do mangaka: uma contada por Kotaro, um garcom aficionado por filmes de terror, e outra por Shintaro Kago, o proprio autor incorporado a trama como um artista em crise buscando novos estilos de manga.",
+    "capa_url": null
+  },
+  "volumes_possuidos": [1],
+  "controle": {
+    "edicao_brasil": "DarkSide Books (fevereiro de 2024) — volume unico",
+    "titulo_original": "Fraction (フラクション)",
+    "editora_original": "Core Magazine (2009)",
+    "tradutor": "Luiz Claudio Bodanese",
+    "volumes_publicados_brasil": 1,
+    "volumes_totais_japao": 1,
+    "status_brasil": "Completa — volume unico, 224 paginas, capa dura",
+    "volumes_faltantes": [],
+    "classificacao": "18 anos — body horror / ero-guro",
+    "observacao": "Obra concebida de ponta a ponta antes de ser publicada (nao saiu em revista). Mesma editora e formato de Contos de Horror da Mimi (DarkSide). Shintaro Kago tambem e autor de Dementia 21.",
+    "isbn_volumes": {
+      "1": "978-65-5598-347-0"
+    }
+  }
+}

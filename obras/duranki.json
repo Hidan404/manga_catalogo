@@ -1,0 +1,28 @@
+{
+  "tipo": "manga",
+  "obra": {
+    "titulo": "Duranki",
+    "autor": "Kentaro Miura",
+    "genero": "Seinen",
+    "status": "Concluido",
+    "artista": "Studio Gaga",
+    "data_lancamento": "2024-01-20",
+    "sinopse": "Segundo a lenda, nos tempos antigos o homem foi criado do barro por maos divinas. No espaco entre o ceu e a terra surgiu uma criatura que nao era humana nem divindade: Usum, um jovem criado por um casal de idosos que guardam o Monte Nisir. Quando ele conhece os garotos de uma aldeia, uma nova legenda comeca a ser construida tendo o mundo antigo como cenario. Volume unico com os capitulos da revista Young Animal Zero, material inedito e o roteiro Amazonas, de Kentaro Miura.",
+    "capa_url": null
+  },
+  "volumes_possuidos": [1],
+  "controle": {
+    "edicao_brasil": "Panini",
+    "titulo_brasil": "Duranki (DU-RAN-KI)",
+    "titulo_original": "Duranki (ドゥルアンキ)",
+    "editora_original": "Hakusensha (Young Animal Zero)",
+    "volumes_publicados_brasil": 1,
+    "volumes_totais_japao": 1,
+    "status_brasil": "Completa — edicao unica (janeiro/2024)",
+    "volumes_faltantes": [],
+    "observacao": "One-shot serializado de 2019 a 2020 e encerrado apos o falecimento de Kentaro Miura (2021); volume compilatorio publicado postumamente no Japao em dez/2021, mesmo dia do vol. 41 de Berserk. Inclui o roteiro Amazonas.",
+    "isbn_volumes": {
+      "1": "978-65-259-2278-2"
+    }
+  }
+}

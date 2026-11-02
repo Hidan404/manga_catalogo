@@ -1,0 +1,30 @@
+{
+  "tipo": "manga",
+  "obra": {
+    "titulo": "Magi",
+    "autor": "Shinobu Ohtaka",
+    "genero": "Shounen",
+    "status": "Concluido",
+    "artista": "Shinobu Ohtaka",
+    "data_lancamento": "2014-07-29",
+    "sinopse": "Aladim, um garoto misterioso com uma flauta magica, viaja pelo mundo a busca de tesouros por conta da promessa que fez a um amigo. Ele conhece Ali Baba, um jovem que sonha em conquistar uma das dungeons, construcoes de origem desconhecida que surgiram do nada. Assim comeca a aventura por dungeons, desertos, reinos e guerras nas Arabias magicas.",
+    "capa_url": null
+  },
+  "volumes_possuidos": [
+    1, 2, 3, 4, 5, 6, 7, 8, 9, 10,
+    11, 12, 13, 14, 15, 16, 17, 18, 19, 20,
+    21, 22, 23, 24, 25, 26, 27, 28, 29, 30,
+    31, 32, 33
+  ],
+  "controle": {
+    "edicao_brasil": "JBC",
+    "titulo_brasil": "Magi: O Labirinto da Magia",
+    "titulo_original": "Magi (マギ)",
+    "volumes_publicados_brasil": 37,
+    "volumes_totais_japao": 37,
+    "status_brasil": "Completa (publicada de julho/2014 a dezembro/2018)",
+    "volumes_faltantes": [34, 35, 36, 37],
+    "observacao": "Obra concluida no Japao em 2017 (cap. 369). JBC completou os 37 volumes no Brasil. ISBNs da edicao JBC nao confirmados neste arquivo.",
+    "isbn_volumes": {}
+  }
+}
