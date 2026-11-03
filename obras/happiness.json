@@ -1,0 +1,39 @@
+{
+  "tipo": "manga",
+  "obra": {
+    "titulo": "Happiness",
+    "autor": "Shuzo Oshimi",
+    "genero": "Shounen",
+    "status": "Concluido",
+    "artista": "Shuzo Oshimi",
+    "data_lancamento": "2018-06-27",
+    "sinopse": "Nada de interessante acontece no primeiro ano do colegio de Makoto Ozaki: sua vida e uma serie de humilhacoes silenciosas — valentoes, amigos nao confiaveis e a frustracao com sua libido adolescente. Certa noite, uma garota palida e magra o empurra para um beco e lhe da uma escolha: morrer como humano ou viver como vampiro. Desesperado, Makoto escolhe viver — e agora a luz do dia e brilhante demais, a comida tem sabor pessimo e a pior parte e a sua sede insaciavel. As pequenas vergonhas da vida dele trocaram-se por dois grandes horrores: o que vai matar sua sede e o proprio colegio.",
+    "capa_url": null
+  },
+  "volumes_possuidos": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+  "controle": {
+    "edicao_brasil": "NewPOP (junho de 2018 a junho de 2020)",
+    "titulo_original": "Happiness (ハピネス)",
+    "autor": "Shuzo Oshimi — tambem autor de Aku no Hana (The Flower of Evil)",
+    "editora_original": "Kodansha",
+    "publicacao_original": "Bessatsu Shonen Magazine (fev. 2015 a mar. 2019)",
+    "demografia": "Shounen",
+    "volumes_publicados_brasil": 10,
+    "volumes_totais_japao": 10,
+    "status_brasil": "Completa — 10 volumes, 192 paginas cada",
+    "volumes_faltantes": [],
+    "observacao": "Vampiro sobrenatural com gore; classificacao de terror psicologico. Formato 11,5 x 17,2 cm, capa cartonada.",
+    "isbn_volumes": {
+      "1": "978-85-8362-196-6",
+      "2": "978-85-8362-197-3",
+      "3": "978-85-8362-198-0",
+      "4": "978-85-8362-199-7",
+      "5": "978-85-8362-200-0",
+      "6": "978-85-8362-201-7",
+      "7": "978-85-8362-265-9",
+      "8": "978-85-8362-266-6",
+      "9": "978-85-8362-267-3",
+      "10": "978-85-8362-268-0"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "tipo": "manga",
+  "obra": {
+    "titulo": "Hells Paradise",
+    "autor": "Yuji Kaku",
+    "genero": "Shounen",
+    "status": "Em publicacao",
+    "artista": "Yuji Kaku",
+    "data_lancamento": "2018-01-01",
+    "sinopse": "Yokai, um soldado da Segunda Guerra Mundial, acorda preso em um plano espiritual. Junto com outros soldados, ele luta contra demônios em um paraíso mortal. A serie acompanha sua jornada de sobrevivência e batalhas épicas.",
+    "capa_url": null
+  },
+  "volumes_possuidos": [1, 2, 3, 4, 5, 6, 7, 8],
+  "controle": {
+    "manga_id": null,
+    "edicao_brasil": "Panini",
+    "colecao": "Panini Mangas",
+    "volumes_publicados_brasil": 8,
+    "volumes_totais_japao": 12,
+    "status_brasil": "Em publicacao — usuario possui vols 1-8",
+    "volumes_faltantes": [9, 10, 11, 12],
+    "observacao": "Hells Paradise (Jigokuraku): mangá de Yuji Kaku, publicado no Young Shonen Jump. Parte 1 com 12 volumes. JBC/Panini publicou edicoes no Brasil. usuario possui vols 1-8.",
+    "isbn_volumes": {
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null,
+      "5": null,
+      "6": null,
+      "7": null,
+      "8": null,
+      "9": null,
+      "10": null,
+      "11": null,
+      "12": null
+    }
+  }
+}

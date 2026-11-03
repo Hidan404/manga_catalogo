@@ -1,0 +1,27 @@
+{
+  "tipo": "manga",
+  "obra": {
+    "titulo": "Hellsing",
+    "autor": "Kohta Hirano",
+    "genero": "Seinen",
+    "status": "Concluido",
+    "artista": "Kohta Hirano",
+    "data_lancamento": "2015-06-01",
+    "sinopse": "A Organização Hellsing é uma unidade secreta do governo britânico que combate vampiros e outras ameaças sobrenaturais. Seu principal arma é Alucard, o vampiro mais poderoso do mundo, acompanhado por seu protégé Seras Victoria e o leal servo Walter. A narrativa acompanha as batalhas contra forças nazistas vampirescas, a organização rival Iscariot e os misteriosos membros do grupo Millenium, enquanto a identidade e os verdadeiros objetivos de Alucard são lentamente revelados.",
+    "capa_url": null
+  },
+  "volumes_possuidos": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+  "controle": {
+    "edicao_brasil": "JBC (jun/2015–mar/2016, relançamento 2025) — 1ª ed. 2008-2010 dividia cada vol em dois (renderam 20 vols); 2ª ed. respeita original de 10 vols",
+    "titulo_original": "Hellsing (ヘルシング)",
+    "autor": "Kohta Hirano",
+    "editora_original": "Shōnen Gahōsha",
+    "publicacao_original": "Young King OURs (abril 1997–setembro 2008)",
+    "demografia": "Seinen",
+    "volumes_publicados_brasil": 20,
+    "volumes_totais_japao": 10,
+    "status_brasil": "Concluido — 10 vols na edicao moderna (2015); 20 vols na 1ª edicao (2008-2010)",
+    "volumes_faltantes": [],
+    "observacao": "1ª publicacao JBC (2008-2010) dividia cada volume japon em dois no Brasil, totalizando 20 volumes. 2ª publicacao (jun/2015–mar/2016) relançou os 10 volumes na numeração original. Reimpressao 2025 por R$ 43,90/vol. Box set ISBN 7898312962337. Série completa de Kohta Hirano — autor também de Drifters."
+  }
+}

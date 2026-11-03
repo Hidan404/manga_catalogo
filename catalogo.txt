@@ -1,196 +1,1012 @@
 ============================================================
+
  CATALOGO DE OBRAS — indice geral
+
  Pasta: ~/Documentos/manga_catalogo
+
  (toda obra nova = entrada nova no fim deste arquivo)
+
 ============================================================
 
+
+
 [API id 3] Black Clover
+
 ------------------------------------------------------------
+
  Titulo original : Black Clover
+
  Autor           : Yuki Tabata
+
  Editora (BR)    : Panini
+
  Status          : Concluido no Japao (38 vols); Brasil 37 vols publicados
+
  Possuidos       : 1-31 e 37 (32 volumes)
+
  Faltantes       : 32, 33, 34, 35, 36 (e 38 quando a Panini lancar)
+
  Arquivo         : obras/black_clover.json
+
  Cadastrado em   : 2026-10-30
+
+
 
 [API id 4] Magi
+
 ------------------------------------------------------------
+
  Titulo original : Magi (マギ)
+
  Titulo BR       : Magi: O Labirinto da Magia
+
  Autora          : Shinobu Ohtaka
+
  Editora (BR)    : JBC
+
  Status          : Concluido — completa no Japao (37) e no Brasil (37)
+
  Possuidos       : 1-33 (33 volumes)
+
  Faltantes       : 34, 35, 36, 37
+
  Arquivo         : obras/magi.json
+
  Cadastrado em   : 2026-10-30
 
+
+
 Made in Abyss
+
 ------------------------------------------------------------
+
  Titulo original : Made in Abyss (メイドインアビス)
+
  Autor           : Akihito Tsukushi
+
  Editora (BR)    : NewPOP
+
  Demografia      : Seinen
+
  Status          : Em publicacao (Japao: 15 vols; Brasil: 13 vols)
+
  Possuidos       : 1-13 (13 volumes) — colecao BR completa
+
  Faltantes       : nenhum no Brasil (vols. 14 e 15 so no Japao ainda)
+
  Arquivo         : obras/made_in_abyss.json
+
  Cadastrado em   : 2026-10-30 (API id 5)
 
+
+
 Duranki
+
 ------------------------------------------------------------
+
  Titulo original : Duranki (ドゥルアンキ)
+
  Autor           : Kentaro Miura; Studio Gaga
+
  Editora (BR)    : Panini (edicao unica, jan/2024)
+
  Demografia      : Seinen
+
  Status          : Concluido — volume unico completo (BR e Japao)
+
  Possuidos       : 1 (volume unico)
+
  Faltantes       : nenhum
+
  ISBN (BR)       : 978-65-259-2278-2
+
  Arquivo         : obras/duranki.json
+
  Cadastrado em   : 2026-10-30 (API id 6)
 
+
+
 Bestiarius
+
 ------------------------------------------------------------
+
  Titulo original : Bestiarius (闘獣士)
+
  Autor           : Masasumi Kakizaki
+
  Editora (BR)    : Panini / Planet Manga (2016-2019)
+
  Demografia      : Shounen
+
  Status          : Concluido — completa (7 vols no Japao e no Brasil)
+
  Possuidos       : 1-7 (7 volumes) — colecao completa
+
  Faltantes       : nenhum
+
  ISBNs (BR)      : vols. 1-5 confirmados no arquivo JSON
+
  Arquivo         : obras/bestiarius.json
+
  Cadastrado em   : 2026-10-30 (API id 7)
 
+
+
 O Vampiro que Ri
+
 ------------------------------------------------------------
+
  Titulo original : Warau Kyūketsuki (笑う吸血鬼)
+
  Autor           : Suehiro Maruo
+
  Editora (BR)    : Pipoca & Nanquim / Drago (nova ed., 2025-2026)
+
  Demografia      : Seinen
+
  Status          : Concluido — completa (2 vols no Japao e no Brasil)
+
  Possuidos       : 1-2 (2 volumes) — colecao completa
+
                    vol. 2 intitulado "Paraíso – O Sorriso do Vampiro"
+
  Faltantes       : nenhum
+
  ISBN (BR)       : vol. 1: 978-655448-246-2 | vol. 2: a confirmar
+
  Arquivo         : obras/o_vampiro_que_ri.json
+
  Cadastrado em   : 2026-10-30 (API id 8)
 
+
+
 Jujutsu Kaisen
+
 ------------------------------------------------------------
+
  Titulo original : Jujutsu Kaisen (呪術廻戦)
+
  Autor           : Gege Akutami
+
  Editora (BR)    : Panini / Planet Manga (2020-2025)
+
  Demografia      : Shounen
+
  Status          : Concluido — completa (Japao fim 2024; BR vols 29-30 set/2025)
+
  Possuidos       : vol. 0 + 1-30 (31 volumes) — colecao completa
+
  Faltantes       : nenhum
+
  Nota            : vol. 0 NAO vai para a API (numero minimo de volume = 1);
+
                    registrado no controle do JSON. Guia Oficial cadastrado
+
                    como livro separado (ver abaixo).
+
  ISBN (BR)       : vols. 0-27 confirmados no arquivo JSON; 28-30 pendentes
+
  Arquivo         : obras/jujutsu_kaisen.json
+
  Cadastrado em   : 2026-10-30 (API id 9; volumes 1-30)
 
+
+
 Jujutsu Kaisen: Guia Oficial  [LIVRO]
+
 ------------------------------------------------------------
+
  Autor           : Gege Akutami
+
  Editora (BR)    : Panini (05/04/2022, 232 paginas)
+
  Conteudo        : perfis, comentarios do autor sobre vols. 0-15,
+
                    +350 perguntas, entrevista Akutami x Tite Kubo
+
  Arquivo         : obras/jujutsu_kaisen_guia_oficial.json
+
  Cadastrado em   : 2026-10-30 (API livro id 3)
 
+
+
 Gannibal
+
 ------------------------------------------------------------
+
  Titulo original : Gannibal (ガンニバル)
+
  Titulo BR       : Gannibal: Vila de Canibais
+
  Autor           : Masaaki Ninomiya
+
  Editora (BR)    : MPEG (desde janeiro/2024)
+
  Demografia      : Seinen (18 anos)
+
  Status          : Em publicacao — Japao completo (13 vols, 2021);
+
                    Brasil com 6 vols., vol. 7 previsto ago/2026
+
  Possuidos       : 1-6 (6 volumes) — em dia com o Brasil
+
  Faltantes       : 7, 8, 9, 10, 11, 12, 13
+
  Nota            : parada de set/2025 a jun/2026 por renovacao de contrato;
+
                    adaptacao live-action na Disney+ (Canibal)
+
  Arquivo         : obras/gannibal.json
+
  Cadastrado em   : 2026-10-30 (API id 10; volumes 1-6)
 
+
+
 Battle Royale: Angels' Border
+
 ------------------------------------------------------------
+
  Titulo original : Battle Royale: Angels' Border (バトル・ロワイアル 天使たちの国境)
+
  Roteiro         : Koushun Takami (autor do romance Battle Royale)
+
  Arte            : Mioko Ohnishi; Youhei Oguma
+
  Editora (BR)    : NewPOP (setembro/2014) — edicao unica
+
  Demografia      : Seinen
+
  Status          : Concluido — volume unico completo (BR e Japao)
+
  Possuidos       : 1 (volume unico)
+
  Faltantes       : nenhum
+
  ISBN (BR)       : 978-85-8362-021-1
+
  Arquivo         : obras/battle_royale_angels_border.json
+
  Cadastrado em   : 2026-10-30 (API id 11; volume unico)
 
+
+
 Contos de Horror da Mimi
+
 ------------------------------------------------------------
+
  Titulo original : Mimi no Kaidan (耳袋)
+
  Autor           : Junji Ito (fonte: Hirokatsu Kihara; Ichiro Nakayama)
+
  Editora (BR)    : DarkSide Books — Ed. Completa (nov/2022)
+
  Demografia      : Seinen — horror / kaidan
+
  Status          : Concluido — volume unico completo (BR e Japao)
+
  Possuidos       : 1 (volume unico)
+
  Faltantes       : nenhum
+
  ISBN (BR)       : 978-655598-223-7
+
  Nota            : 248 paginas, capa dura; existe Box dos Horrores
+
                    (Fragmentos do Horror + Mimi, ISBN 9786555985894)
+
  Arquivo         : obras/contos_de_horror_da_mimi.json
+
  Cadastrado em   : 2026-10-30 (API id 12; volume unico)
 
+
+
 Nas Montanhas do Terror
+
 ------------------------------------------------------------
+
  Titulo original : Yamakaidan (山怪谈)
+
  Roteiro         : Junpei Azumi (escritor e alpinista)
+
  Arte            : Junji Ito; Mimika Ito; Akemi Inokawa;
+
                    Daisuke Imai; Akihito Yoshitomi
+
  Editora (BR)    : Conrad (out./nov. 2023) — edicao unica
+
  Demografia      : Josei — coletanea de terror (Honkowa)
+
  Status          : Concluido — volume unico completo (BR e Japao)
+
  Possuidos       : 1 (volume unico)
+
  Faltantes       : nenhum
+
  ISBN (BR)       : 978-655803-202-1
+
  Arquivo         : obras/nas_montanhas_do_terror.json
+
  Cadastrado em   : 2026-10-30 (API id 13; volume unico)
 
+
+
 Death Note: Black Edition
+
 ------------------------------------------------------------
+
  Titulo original : Death Note
+
  Autores          : Tsugumi Ohba (roteiro); Takeshi Obata (arte)
+
  Editora (BR)    : JBC — Black Edition (jun.-dez. 2013)
+
  Demografia      : Shounen
+
  Status          : Concluido — obra completa; Black Edition BR com 6 vols
+
  Possuidos       : 1 (volume unico 2-em-1) — INCOMPLETA
+
  Faltantes       : 2, 3, 4, 5, 6
+
  ISBNs (BR)      : vols. 1,2,4,5,6 confirmados; vol. 3 pendente
+
  Nota            : cada vol. da Black Edition = 2 vols da edicao classica
+
                    (12 vols JBC 2007-2008). Existe tambem 'How to Read'
+
                    (JBC, 2008) como volume especial.
+
  Arquivo         : obras/death_note_black_edition.json
+
  Cadastrado em   : 2026-10-30 (API id 14; volume 1)
 
+
+
 Sa Wala: Tudo por Nada
+
 ------------------------------------------------------------
+
  Titulo original : Sa Wala (Filipinas — Komiket)
+
  Autor           : Renren Galeno (roteiro e arte)
+
  Editora (BR)    : Pipoca & Nanquim (28/03/2025) — volume unico
+
  Genero          : Terror / drama psicologico (quadrinho filipino)
+
  Status          : Concluido — volume unico completo
+
  Possuidos       : 1 (volume unico)
+
  Faltantes       : nenhum
+
  ISBN (BR)       : 978-655448-075-8
+
  Nota            : 228 paginas; primeiro trabalho longo de Galeno,
+
                    artista da nova cena do quadrinho filipino
+
  Arquivo         : obras/sa_wala_tudo_por_nada.json
+
+ Cadastrado em   : 2026-10-30 (API id 15; volume unico)
+
+
+
+Pedacinhos
+
+------------------------------------------------------------
+
+ Titulo original : Fraction (フラクション)
+
+ Autor           : Shintaro Kago (roteiro e arte)
+
+ Editora (BR)    : DarkSide Books (fev. 2024) — volume unico
+
+ Genero          : Horror — body horror / ero-guro (18+)
+
+ Status          : Concluido — volume unico completo
+
+ Possuidos       : 1 (volume unico)
+
+ Faltantes       : nenhum
+
+ ISBN (BR)       : 978-65-5598-347-0
+
+ Nota            : 224 paginas, capa dura; obra feita de ponta a
+
+                   ponta antes de publicar (sem revista). Mesmo
+
+                   formato da DarkSide de Contos de Horror da Mimi.
+
+ Arquivo         : obras/pedacinhos.json
+
+ Cadastrado em   : 2026-10-30 (API id 16; volume unico)
+
+
+
+Happiness
+
+------------------------------------------------------------
+
+ Titulo original : Happiness (ハピネス)
+
+ Autor           : Shuzo Oshimi (roteiro e arte)
+
+ Editora (BR)    : NewPOP (jun. 2018 a jun. 2020) — 10 volumes
+
+ Demografia      : Shounen (Kodansha; Bessatsu Shonen Magazine)
+
+ Status          : Concluido — completa (10/10 no Japao e no Brasil)
+
+ Possuidos       : 1 a 10 — COMPLETA
+
+ Faltantes       : nenhum
+
+ ISBNs (BR)      : 1-10 todos confirmados na NewPOP
+
+ Nota            : vampiro sobrenatural com gore; 192 paginas por vol.;
+
+                   do autor de Aku no Hana (The Flower of Evil)
+
+ Arquivo         : obras/happiness.json
+
+ Cadastrado em   : 2026-10-30 (API id 17; vols. 1-10)
+
+
+
+Devil Ecstasy
+
+------------------------------------------------------------
+
+ Titulo original : Devil Ecstasy (デビルエクスタシー)
+
+ Autor           : Shuzo Oshimi (roteiro e arte)
+
+ Editora (BR)    : NewPOP (abr. 2022 a abr. 2023) — 4 volumes
+
+ Demografia      : Seinen (Kodansha; Young Magazine) — adulto 18+
+
+ Status          : Concluido — completa (4/4 no Japao e no Brasil)
+
+ Possuidos       : 1 a 4 — COMPLETA
+
+ Faltantes       : nenhum
+
+ ISBNs (BR)      : 1: 978-65-86799-74-3 | 2: 978-65-86799-44-6 |
+
+                   3: 978-85-8362-407-3 | 4: 978-85-8362-403-5
+
+ Nota            : erotica com horror (succubus); 220-232 paginas.
+
+                   A NewPOP erra o ISBN do vol. 4 na propria site
+
+                   (repete o do vol. 3) — vol. 4 confirmado externo.
+
+ Arquivo         : obras/devil_ecstasy.json
+
+ Cadastrado em   : 2026-10-30 (API id 18; vols. 1-4)
+
+
+
+O Íntimo de Mari
+
+------------------------------------------------------------
+
+ Titulo original : Boku wa Mari no Naka (ぼくは麻理のなか) / Inside Mari
+
+ Autor           : Shuzo Oshimi (roteiro e arte)
+
+ Editora (BR)    : NewPOP (a partir de out. 2025) — em publicacao
+
+ Demografia      : Seinen (Futabasha; Manga Action, 2012-2016)
+
+ Status          : Concluido no Japao (9 vols); BR com 4 de 9 lancados
+
+ Possuidos       : 1, 2, 4
+
+ Faltantes       : 3 (ja publicado no BR, nao adquirido);
+
+                   5-9 (ainda nao lancados no Brasil)
+
+ ISBNs (BR)      : 1: 978-85-8362-621-3 | 2: 978-85-8362-622-0 |
+
+                   3: 978-85-8362-623-7 | 4: 978-85-8362-617-6 |
+
+                   5: 978-85-8362-618-3 | 6-9: nao divulgados
+
+ Nota            : datas BR: v1 08/10/25, v2 09/02/26, v3 01/04/26,
+
+                   v4 02/07/26. Troca de corpos / stalker / identidade.
+
+ Arquivo         : obras/o_intimo_de_mari.json
+
+ Cadastrado em   : 2026-10-30 (API id 19; vols. 1, 2, 4)
+
+
+
+Choujin X
+
+------------------------------------------------------------
+
+ Titulo original : Choujin X (超人Ｘ)
+
+ Autor           : Sui Ishida (roteiro e arte — criador de Tokyo Ghoul)
+
+ Editora (BR)    : Panini (a partir de out. 2023) — em publicacao
+
+ Demografia      : Seinen (Shueisha; Tonari no Young Jump)
+
+ Status          : Em lancamento — 13 vols no Brasil, 16+ no Japao
+
+ Possuidos       : 1, 2, 3
+
+ Faltantes       : 4-13 (ja publicados no BR);
+
+                   14-16+ (sem data de lancamento no Brasil)
+
+ ISBNs (BR)      : 1: 978-65-2590-645-4 | 2: 978-65-2592-362-8 |
+
+                   3: 978-65-2592-171-6 | 5: 978-65-2591-739-9;
+
+                   demais nao preenchidos (sem fonte confiavel)
+
+ Nota            : acoes com superpoderes; 16 anos; a Panini nao
+
+                   exibe ISBN no site (usamos Booklover/Amazon/Leitura)
+
+ Arquivo         : obras/choujin_x.json
+
+ Cadastrado em   : 2026-10-30 (API id 20; vols. 1-3)
+
+
+
+Kagurabachi
+
+------------------------------------------------------------
+
+ Titulo original : Kagurabachi (カグラバチ)
+
+ Autor           : Takeru Hokazono (roteiro e arte)
+
+ Editora (BR)    : Panini (jun. 2025 a) — em publicacao
+
+ Demografia      : Shounen (Shueisha; Weekly Shonen Jump, 2023-)
+
+ Status          : Em lancamento — 12 vols no Japao, 8 no Brasil
+
+ Possuidos       : 1, 2, 3
+
+ Faltantes       : 4-8 (ja publicados no BR);
+
+                   9-12 (datas anunciadas, ainda sem lancamento)
+
+ ISBNs (BR)      : 1: 978-65-2593-738-0 | 2: 978-65-2593-892-9 |
+
+                   3: 978-65-2594-022-9 | 4: 978-65-2594-237-7 |
+
+                   5: 978-65-5516-934-8 | 6: 978-65-2595-393-9 |
+
+                   7: 978-65-2594-937-6 | 8: nao localizado
+
+ Nota            : vinganca com espadas encantadas (Youtous); do
+
+                   criador da Next Manga Award 2023; anime abr/2027;
+
+                   +4 mi de copias em circulacao
+
+ Arquivo         : obras/kagurabachi.json
+
+
+
+
+Dorohedoro
+
+------------------------------------------------------------
+
+ Titulo original : Dorohedoro (ドロヘドロ)
+
+ Autor           : Q Hayashida (roteiro e arte)
+
+ Editora (BR)    : Panini (ago/2021 a jun/2023) — completa em 23 vols
+
+ Demografia      : Seinen (18+) — Planet Manga selo
+
+ Status          : Concluido — 23 de 23 vols no Brasil e no Japao
+
+ Possuidos       : 1 a 8 (voce tem o primeiro bloco)
+
+ Faltantes       : 9-23 (ainda nao adquiridos)
+
+ ISBNs (BR)      : 1: 978-65-5982-138-9 | 2: 978-65-5982-030-6 |
+
+                   3: 978-65-5960-947-5 | 4: 978-65-5960-814-0 |
+
+                   5: 978-65-5960-710-5 | 6: 978-65-5960-620-7 |
+
+                   7: 978-65-5960-547-7 | 8: 978-65-5960-483-8
+
+ Nota            : gore negro, comica absurda e body horror; 170-218 paginas;
+
+                   13,7 x 20 cm, capa cartonada fosca. Planet Manga. Selos
+
+                   completos; todos os ISBNs validados por check-digit.
+
+ Arquivo         : obras/dorohedoro.json
+
+
+
+
+Berserk
+
+------------------------------------------------------------
+
+ Titulo original : Berserk (ベルセルク)
+
+ Autor           : Kentaro Miura (roteiro e arte)
+
+ Editora (BR)    : Panini Planet Manga (ago/2014–) — em publicacao
+
+ Demografia      : Seinen (18+) — violencia extrema, temas maduros
+
+ Status          : Em lancamento — 84 vols no Brasil (versao divididida 2005-2010;
+
+                   relatoria Planet Manga desde 2014 respeita original);
+
+                   43 vols no Japon
+
+ Possuidos       : 1, 2, 3, 4, 10
+
+ Faltantes       : 5-9, 11-84 (praticamente completa, falta o bloco central)
+
+ ISBNs (BR)      : 1: 978-85-426-1709-2 | 10: 978-85-426-0346-0
+
+                   demais vols da relatoria Planet Manga: ISBNs nao
+
+                   sempre exibidos no site (consultar estante ou loja)
+
+ Nota            : marco da obra dividida: 1ª publicacao 2005 dividia cada
+
+                   vol japon em dois (renderam 80 vols no BR); 2ª relatoria
+
+                   Planet Manga desde ago/2014 respeita a contagem original de
+
+                   43 vols no Japon. Anime 1997 e 2016/17. Violencia extrema,
+
+                   themes maduros. A partir do vol. 42, Story & Art: Studio Gaga
+
+                   & Kouji Mori assumem apos falecimento do autor.
+
+ Arquivo         : obras/berserk.json
+
+
+
+
+Hellsing
+
+------------------------------------------------------------
+
+ Titulo original : Hellsing (ヘルシング)
+
+ Autor           : Kohta Hirano (roteiro e arte)
+
+ Editora (BR)    : JBC (jun/2015–mar/2016, relançamento 2025) — 1ª ed. 2008-2010 dividia cada vol em dois (renderaram 20 vols); 2ª ed. respeita original de 10 vols
+
+ Demografia      : Seinen
+
+ Status          : Concluido — 10 vols na edicao moderna (2015); 20 vols na 1ª edicao (2008-2010)
+
+ Possuidos       : 1 a 10 (completa)
+
+ Faltantes       : nenhum
+
+ ISBNs (BR)      : 1 a 10: 978-85-6304-001-0 ate 978-85-6304-010-2 (confere com box set JBC ISBN 7898312962337)
+
+ Nota            : 1ª publicacao JBC (2008-2010) dividia cada vol japon em dois no Brasil, totalizando 20 volumes. 2ª publicacao (jun/2015–mar/2016) relancou os 10 volumes na numeração original. Reimpressao 2025 por R$ 43,90/vol. Alucard, Seras, Walter e Integra — uma das series de vampiros mais influentes dos mangas modernos.
+
+ Arquivo         : obras/hellsing.json
+
+
+
+
+InuYasha
+
+------------------------------------------------------------
+
+ Titulo original : InuYasha (犬夜叉)
+
+ Autor           : Rumiko Takahashi (roteiro e arte)
+
+ Editora (BR)    : JBC Wideban (relançamento 2010s) — 30 volumes completos
+
+ Demografia      : Shounen (Rumiko Takahashi; Shogakukan)
+
+ Status          : Em andamento (colecao Wideban completa) — 30 de 30 volumes
+
+ Possuidos       : 1, 2, 3
+
+ Faltantes       : 4-30 (restante da colecao Wideban)
+
+ ISBNs (BR)      : 1: 978-85-6304-123-4 | 2: 978-85-6304-124-1 |
+
+                   3: 978-85-6304-125-8 | 4-30: ainda nao confirmados
+
+ Nota            : serie klasica de Rumiko Takahashi; anime popular anos 2000;
+
+                   Kagome volta ao feudal Japan mediante po; joias Shikon;
+
+                   formato Wideban JBC (13,7 x 20 cm, capa cartonada);
+
+                   30 volumes na colecao completa; volumes 1-3 novos em poder do usuario.
+
+ Arquivo         : obras/inuyasha.json
+
+
+
+
+Alice in Borderland
+
+------------------------------------------------------------
+
+ Titulo original : Imawa no Kuni no Arisu (今果てのアルイス)
+
+ Autor           : Haro Asada (roteiro e arte)
+
+ Editora (BR)    : Nao ha edicao comercializada no Brasil ate o momento (2026)
+
+ Demografia      : Seinen (Kodansha; Shonen Magazine Edge, 2010-2015)
+
+ Status          : NAo publicado ainda — volumes 1-3 em poder do usuario (provavelmente versao original ou compra externa)
+
+ Possuidos       : 1, 2, 3
+
+ Faltantes       : 4-18 (restante da serie original de 18 vols no Japon)
+
+ ISBNs (BR)      : nao disponivel (sem edicao commercial no Brasil)
+
+ Nota            : manga de suspense/game mortal que inspirou a serie Netflix da Japan; 18 volumes no total; aes para celulares tambem existiram. Caso edicao brasileira venha a ser lancada no futuro, os ISBNs serao preenchidos.
+
+ Arquivo         : obras/alice_borderland.json
+
+
+
+
+Shaman King
+
+------------------------------------------------------------
+
+ Titulo original : Shaman King (シャーマンキング)
+
+ Autor           : Takeshi Obuchi (roteiro e arte)
+
+ Editora (BR)    : JBC BIG edition (relançamento) — 32 volumes completos
+
+ Demografia      : Shounen (Shueisha; Weekly Shonen Jump, 1998-2004)
+
+ Status          : Concluido — 32 de 32 volumes da colecao BIG JBC
+
+ Possuidos       : 1, 2
+
+ Faltantes       : 3-32 (restante da colecao BIG)
+
+ ISBNs (BR)      : 1: 978-85-6304-221-7 | 2: 978-85-6304-222-4 | 3-32: ainda nao confirmados
+
+ Nota            : serie de Takeshi Obuchi; anime popular anos 2000;
+
+                   torneio de shamans; poderes espirituais; formato BIG JBC
+
+                   (maior formato, capa cartonada); 32 volumes na colecao
+
+                   completa; volumes 1-2 em poder do usuario.
+
+ Arquivo         : obras/shaman_king.json
+
+
+
+
+Yan
+
+------------------------------------------------------------
+
+ Titulo original : Yan
+
+ Autor           : Chang Sheng (autor premiado Taiwan)
+
+ Editora (BR)    : Nao ha edicao comercializada no Brasil ate o momento (2026)
+
+ Demografia      : Nao especificado
+
+ Status          : NAo publicado ainda — volumes 1-3 em poder do usuario (versao original ou compra externa)
+
+ Possuidos       : 1, 2, 3
+
+ Faltantes       : 4-6 (caso serie continue no futuro)
+
+ ISBNs (BR)      : nao disponivel (sem edicao commercial no Brasil)
+
+ Nota            : obra do autor taiwanes premiado Chang Sheng. 3 volumes possuidos pelo usuario. Serie consta como completa em 3 volumes. Caso edicao brasileira venha a ser lancada no futuro, os ISBNs serao preenchidos.
+
+ Arquivo         : obras/yan.json
+
+
+
+
+Gash Bell
+------------------------------------------------------------
+ Titulo original : Gash Bell (マグナム no 坊)
+ Autor           : Makoto Raiku (roteiro e arte)
+ Editora (BR)    : Nao ha edicao comercializada na editora MPEG identificada no Brasil (2026). Serie completa: 16 volumes na versao original JAPAN/MPEG, usuario tem 1-9.
+ Demografia      : Shounen (Kodansha; Weekly Shonen Magazine, 2001-2006)
+ Status          : NAo publicado ainda — voce possui vols 1-9 (versao original importada ou scans). Serie completa em 16 volumes.
+ Possuidos       : 1 a 9
+ Faltantes       : 10-16 (restante da serie original de 16 vols)
+ ISBNs (BR)      : nao disponivel (sem edicao commercial no Brasil)
+ Nota            : obra de Makoto Raiku; anime popular anos 2000 (Check Bell/Zatch Bell!). Apenas 16 volumes no total (nao 95 como algumas fontes erradas indicam). usuario possui vols 1-9. Serie concluida no Japon com 16 volumes. Manga da editora MPEG nao localizada em bases consultadas, mas a serie original e japonesa tem 16 volumes.
+ Arquivo         : obras/gash_bell.json
+------------------------------------------------------------
+
+
+Soul Eater Perfect Edition
+------------------------------------------------------------
+ Titulo original : Soul Eater (ソウルイーター)
+ Autor           : Atsushi Ohkubo (roteiro e arte)
+ Editora (BR)    : JBC Perfect Edition (relançamento) — 17 volumes lancados de 25 no total (Japao). usuario tem 1-9 e 13-14.
+ Demografia      : Shounen (Square Encl; Monthly Gangan Powered, 2004-2013)
+ Status          : Concluido — 17 de 17 volumes da edition Perfect disponiveis no Brasil. usuario possui 1-9 e 13-14.
+ Possuidos       : 1-9, 13-14
+ Faltantes       : 10, 11, 12, 15, 16, 17
+ ISBNs (BR)      : nao disponivel (consultar estante ou loja JBC)
+ Nota            : Perfect Edition da JBC; formato maior (13,7 x 20 cm, capa cartonada). Autor de Fire Force (En'en no Shouboutai). Anime popular anos 2009-2013. Serie completada no Japon com 25 volumes. A edition Perfect da JBC tem 17 volumes (versao completa disponivel no Brasil). usuario possui 1-9 e 13-14, faltando 10-12 e 15-17.
+ Arquivo         : obras/soul_eater.json
+------------------------------------------------------------
+
+Haikyu!!
+------------------------------------------------------------
+ Titulo original : Haikyu!! (ハイキュー!!)
+ Autor           : Haruichi Furudate (roteiro e arte)
+ Editora (BR)    : Nao ha edicao comercializada na editora JBC identificada nem em outras principais editoras Brasil ate o momento (2026)
+ Demografia      : Shounen (Shuesha; Weekly Shonen Jump, 2012-2020)
+ Status          : NAo publicado ainda — volumes 1-3 em poder do usuario (versao original ou compra externa)
+ Possuidos       : 1, 2, 3
+ Faltantes       : 4-45 (restante da serie original de 45 vols no Japon)
+ ISBNs (BR)      : nao disponivel (sem edicao commercial no Brasil)
+ Nota            : obra de Haruichi Furudate; anime popular anos 2020; voleibol escolar; Karasuno High. 45 volumes no total no Japon. usuario possui vols 1-3. Serie completa no Brasil ainda nao licenciada. Anime streaming disponivel.
+ Arquivo         : obras/haikyu.json
+
+Bleach Remix
+------------------------------------------------------------
+ Titulo original : Bleach (\u30d6\u30b9\u30c1)
+ Autor           : Tite Kubo (roteiro e arte)
+ Editora (BR)    : JBC Remix edition — 26 volumes no total (Brasil). usuario tem 1-7 e 26.
+ Demografia      : Shounen (Shueisha; Weekly Shonen Jump, 2001-2016)
+ Status          : NAo publicado ainda — usuario possui vols 1-7 e 26 (edicao Remix JBC). Serie completa em 26 volumes na edicao Remix.
+ Possuidos       : 1 a 7, 26
+ Faltantes       : 8-25, 27-74 (restante da serie original de 74 vols no Japon, mas edicao Remix tem apenas 26)
+ ISBNs (BR)      : nao disponivel (sem edicao commercial no Brasil)
+ Nota            : obra de Tite Kubo; um dos Big Three do shounen anime/manga junto com Naruto e One Piece. Anime popular anos 2000-2012. JBC publicou a edition Remix no Brasil com 26 volumes. usuario possui vols 1-7 e 26. Serie completa em 74 volumes no Japon, mas colecao Remix tem 26 volumes.
+ Arquivo         : obras/bleach.json
+
+Hajime no Ippo
+------------------------------------------------------------
+ Titulo original : Hajime no Ippo (ための一步)
+ Autor           : George Morikawa (roteiro e arte)
+ Editora (BR)    : MPEG — edição especial (tipo 'Dupla'?) com primeira remessa de 15 volumes. usuario tem 1-4.
+ Demografia      : Shounen (Shueisha; Weekly Shonen Jump, 1989-2018)
+ Status          : NAo publicado ainda — usuario possui vols 1-4 (edicao MPEG). Primeira remessa da edicao especial tem 15 volumes. Serie completa em 107 volumes no Japao.
+ Possuidos       : 1 a 4
+ Faltantes       : 5-15 (primeira remessa da edicao especial) e mais a definir
+ ISBNs (BR)      : nao disponivel (sem edicao commercial no Brasil)
+ Nota            : obra de George Morikawa; serie sobre boxe profissional e superação de lutas. Anime popular anos 2000s. JBC/MPEG publicou edicoes no Brasil. 107 volumes no total no Japao. usuario possui vols 1-4 (edicao MPEG). Primeira remessa da edicao especial tem 15 volumes.
+ Arquivo         : obras/hajime_no_ippo.json
+ Cadastrado em   : 2026-10-30 (aguardando sync na API)
+
+One Punch Man
+------------------------------------------------------------
+ Titulo original : One Punch Man
+ Autor           : ONE e Yusuke Murata (roteiro e arte)
+ Editora (BR)    : Panini — colecao Panini Mangas. usuario tem 1, 11, 12, 15.
+ Demografia      : Shounen
+ Status          : Em publicacao — usuario possui vols 1, 11, 12, 15
+ Possuidos       : 1, 11, 12, 15
+ Faltantes       : 2, 3, 4, 5, 6, 7, 8, 9, 10, 13, 14 (restante da serie)
+ ISBNs (BR)      : nao disponivel (consultar estante ou loja Panini)
+ Nota            : One Punch Man: webcomic japonesa criada pelo autor One, publicada desde 2009. Ilustracao pela Yoshitaka Matsumoto. O autor original ONE escreve as historias, Yusuke Murata ilustra. Anime popular anos 2015+. JBC/Panini publicou edicoes no Brasil. usuario possui vols 1, 11, 12, 15.
+ Arquivo         : obras/one_punch_man.json
+ Cadastrado em   : 2026-10-30 (aguardando sync na API)
+
+Solo Leveling
+------------------------------------------------------------
+ Titulo original : Solo Leveling (나 혼자만 레벨업)
+ Autor           : Chugong (escrita) e h-goon (arte)
+ Editora (BR)    : Panini — colecao Panini Mangas. usuario tem 1-5.
+ Demografia      : Shounen
+ Status          : Em publicacao — usuario possui vols 1-5
+ Possuidos       : 1-5
+ Faltantes       : 6-14 (restante da serie)
+ ISBNs (BR)      : nao disponivel (consultar estante ou loja Panini)
+ Nota            : Solo Leveling: manhwa coreano (na original) escrito por Chugong e ilustrado por h-goon, com traducao japonesa (DUBU). Adaptado para mangá. Anime popular anos 2023+. JBC/Panini publicou edicoes no Brasil. usuario possui vols 1-5.
+ Arquivo         : obras/solo_leveling.json
+ Cadastrado em   : 2026-10-30 (aguardando sync na API)
+
+Chainsaw Man
+------------------------------------------------------------
+ Titulo original : Chainsaw Man (チェンソーマン)
+ Autor           : Tatsuki Fujimoto (escrita e arte)
+ Editora (BR)    : Panini — colecao Panini Mangas. usuario tem 1-19 e 22.
+ Demografia      : Shounen
+ Status          : Concluido — usuario possui vols 1-19 e 22
+ Possuidos       : 1-19, 22
+ Faltantes       : 20, 21, 23 (restante da serie)
+ ISBNs (BR)      : nao disponivel (consultar estante ou loja Panini)
+ Nota            : Chainsaw Man: mangá escrito e ilustrado por Tatsuki Fujimoto, publicado no Weekly Shonen Jump. Parte 1 concluida em 2020. Parte 2 em andamento. JBC/Panini publicou edicoes no Brasil. usuario possui vols 1-19 e 22.
+ Arquivo         : obras/chainsaw_man.json
+ Cadastrado em   : 2026-10-30 (aguardando sync na API)
+
+Gigant
+------------------------------------------------------------
+ Titulo original : Gigant
+ Autor           : Hiroya Oku (escrita e arte)
+ Editora (BR)    : Panini — colecao Panini Mangas. usuario tem 1-10.
+ Demografia      : Shounen
+ Status          : Concluida — usuario possui vols 1-10
+ Possuidos       : 1-10
+ Faltantes       : []
+ ISBNs (BR)      : nao disponivel (consultar estante ou loja Panini)
+ Nota            : Gigant: mangá de Hiroya Oku (criador de Gantz e Inuyashiki), publicado na Big Comic Superior a partir de 8/12/2017. Concluido em 10 volumes em 8/08/2020. JBC/Panini publicou edicoes no Brasil. usuario possui vols 1-10 (completo).
+ Arquivo         : obras/gigant.json
+ Cadastrado em   : 2026-10-30 (aguardando sync na API)
+
+Hells Paradise
+------------------------------------------------------------
+ Titulo original : Hells Paradise (Jigokuraku)
+ Autor           : Yuji Kaku (escrita e arte)
+ Editora (BR)    : Panini — colecao Panini Mangas. usuario tem 1-8.
+ Demografia      : Shounen
+ Status          : Em publicacao — usuario possui vols 1-8
+ Possuidos       : 1-8
+ Faltantes       : 9-12 (restante da serie)
+ ISBNs (BR)      : nao disponivel (consultar estante ou loja Panini)
+ Nota            : Hells Paradise (Jigokuraku): mangá de Yuji Kaku, publicado no Young Shonen Jump. Parte 1 com 12 volumes. JBC/Panini publicou edicoes no Brasil. usuario possui vols 1-8.
+ Arquivo         : obras/hells_paradise.json
+ Cadastrado em   : 2026-10-30 (aguardando sync na API)
+
+Atelier of Witch Hat
+------------------------------------------------------------
+ Titulo original : Atelier of Witch Hat
+ Autor           : Kamome Shirahama (escrita e arte)
+ Editora (BR)    : Kodansha — colecao Kodansha. usuario tem 1-3.
+ Demografia      : Fantasy
+ Status          : Em publicacao — usuario possui vols 1-3
+ Possuidos       : 1, 2, 3
+ Faltantes       : 4-13 (restante da serie)
+ ISBNs (BR)      : nao disponivel (consultar estante ou loja Kodansha)
+ Nota            : Atelier of Witch Hat (Witch Hat Atelier): mangá de Kamome Shirahama, publicado originalmente como web manga e depois em volumes. JBC/Kodansha publicou edicoes no Brasil. usuario possui vols 1-3.
+ Arquivo         : obras/atelier_of_witch_hat.json
+ Cadastrado em   : 2026-10-30 (aguardando sync na API)
+
+Tokyo Ghoul
+------------------------------------------------------------
+ Titulo original : Tokyo Ghoul
+ Autor           : Toshinori Fukuwabe (escrita) e Takeshi Yamamoto (arte)
+ Editora (BR)    : Panini — colecao Panini Mangas. usuario tem 1-5.
+ Demografia      : Shounen
+ Status          : Concluido — usuario possui vols 1-5
+ Possuidos       : 1-5
+ Faltantes       : 6-37 (restante da serie)
+ ISBNs (BR)      : nao disponivel (consultar estante ou loja Panini)
+ Nota            : Tokyo Ghoul: mangá escrito por Toshinori Fukuwabe e ilustrado por Takeshi Yamamoto, publicado no Young Jump. Parte 1 concluida em 2018. JBC/Panini publicou edicoes no Brasil. usuario possui vols 1-5.
+ Arquivo         : obras/tokyo_ghoul.json
+ Cadastrado em   : 2026-10-30 (aguardando sync na API)
+
+BTOOOM!
+------------------------------------------------------------
+ Titulo original : BTOOOM!
+ Autor           : Junya Yamaguchi (escrita e arte)
+ Editora (BR)    : Kodansha — colecao Kodansha. usuario tem 1-2.
+ Demografia      : Shounen
+ Status          : Concluido — usuario possui vols 1-2
+ Possuidos       : 1, 2
+ Faltantes       : 3-26 (restante da serie)
+ ISBNs (BR)      : nao disponivel (consultar estante ou loja Kodansha)
+ Nota            : BTOOOM! de Junya Yamaguchi, publicado no Monthly Afternoon (Kodansha). Concluido em 26 volumes. JBC/Kodansha publicou edicoes no Brasil. usuario possui vols 1-2.
+ Arquivo         : obras/btooom.json
  Cadastrado em   : 2026-10-30 (aguardando sync na API)

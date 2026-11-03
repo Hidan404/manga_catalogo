@@ -1,0 +1,45 @@
+{
+  "tipo": "manga",
+  "obra": {
+    "titulo": "Gash Bell",
+    "autor": "Makoto Raiku",
+    "genero": "Shounen",
+    "status": "Concluido",
+    "artista": "Makoto Raiku",
+    "data_lancamento": "2001-01-01",
+    "sinopse": "Gash Bell (tambem conhecido como Zatch Bell! no mercado internacional) segue a historia de Kiyomaro Takamine e seu amigo gashbell, um pequeno demonio que participa de um torneio para se tornar o novo rei dos demonios. A serie combina elementos de magia, batalhas estrondosas, humor surreal e competitivos duelos de monster fighting, com uma grande diversidade de personagens e espiritos chamados \"mamodo\" que lutam usando livros de magias misteriosos.",
+    "capa_url": null
+  },
+  "volumes_possuidos": [1, 2, 3, 4, 5, 6, 7, 8, 9],
+  "controle": {
+    "edicao_brasil": "Nao ha edicao comercializada na editora MPEG identificada no Brasil (2026). Serie completa: 16 volumes na versao original JAPAN/MPEG, usuario tem 1-9.",
+    "titulo_original": "Gash Bell (マグナム no 坊) (Gash Bell)",
+    "autor": "Makoto Raiku — autor premiado Japon",
+    "editora_original": "Kodansha",
+    "publicacao_original": "Weekly Shonen Magazine (2001-2006)",
+    "demografia": "Shounen",
+    "volumes_publicados_brasil": 0,
+    "volumes_totais_japao": 16,
+    "status_brasil": "Nao publicado ainda — voce possui vols 1-9 (versao original importada ou scans). Serie completa em 16 volumes.",
+    "volumes_faltantes": [10, 11, 12, 13, 14, 15, 16],
+    "observacao": "Obra de Makoto Raiku; anime popular anos 2000 (Check Bell/Zatch Bell!). Apenas 16 volumes no total (nao 95 como algumas fontes erradas indicam). usuario possui vols 1-9. Serie concluida no Japon com 16 volumes. Manga da editora MPEG nao localizada em bases consultadas, mas a serie original e japonesa tem 16 volumes.",
+    "isbn_volumes": {
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null,
+      "5": null,
+      "6": null,
+      "7": null,
+      "8": null,
+      "9": null,
+      "10": null,
+      "11": null,
+      "12": null,
+      "13": null,
+      "14": null,
+      "15": null,
+      "16": null
+    }
+  }
+}

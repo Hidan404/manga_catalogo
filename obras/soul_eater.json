@@ -1,0 +1,46 @@
+{
+  "tipo": "manga",
+  "obra": {
+    "titulo": "Soul Eater Perfect Edition",
+    "autor": "Atsushi Ohkubo",
+    "genero": "Shounen",
+    "status": "Concluido",
+    "artista": "Atsushi Ohkubo",
+    "data_lancamento": "2015-01-01",
+    "sinopse": "Maka Albarn e Death the Kid sao estudantes da Academia DWI (Death Weapon meister Institute), onde treinam para se tornarem mestres de armas e varrer as 'Kishin' (deuses malignos) que ameacam o mundo. Soul Eater segue a historia desses estudantes e suas armas vivas enquanto eles enfrentam monstros, desafios e desenvolvem parcerias u nicas. A serie combina acao, comedia e elementos de horror corporal em um universo de arma alive e lutas espirituais.",
+    "capa_url": null
+  },
+  "volumes_possuidos": [1, 2, 3, 4, 5, 6, 7, 8, 9, 13, 14],
+  "controle": {
+    "edicao_brasil": "JBC Perfect Edition (relançamento) — 17 volumes lancados de 25 no total (Japao). usuario tem 1-9 e 13-14.",
+    "titulo_original": "Soul Eater (ソウルイーター)",
+    "autor": "Atsushi Ohkubo",
+    "editora_original": "Square Enix",
+    "publicacao_original": "Monthly Gangan Powered / Square Enix (2004-2013)",
+    "demografia": "Shounen",
+    "volumes_publicados_brasil": 17,
+    "volumes_totais_japao": 25,
+    "status_brasil": "Concluido — 17 de 17 volumes da edition Perfect disponiveis no Brasil. usuario possui 1-9 e 13-14.",
+    "volumes_faltantes": [10, 11, 12, 15, 16, 17],
+    "observacao": "Perfect Edition da JBC; formato maior (13,7 x 20 cm, capa cartonada). Autor de 'Fire Force' (En'en no Shouboutai). Anime popular anos 2009-2013. Serie completada no Japon com 25 volumes. A edition Perfect da JBC tem 17 volumes (versao completa disponivel no Brasil). usuario possui 1-9 e 13-14, faltando 10-12 e 15-17.",
+    "isbn_volumes": {
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null,
+      "5": null,
+      "6": null,
+      "7": null,
+      "8": null,
+      "9": null,
+      "10": null,
+      "11": null,
+      "12": null,
+      "13": null,
+      "14": null,
+      "15": null,
+      "16": null,
+      "17": null
+    }
+  }
+}

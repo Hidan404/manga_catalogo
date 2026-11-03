@@ -1,0 +1,52 @@
+{
+  "tipo": "manga",
+  "obra": {
+    "titulo": "BTOOOM!",
+    "autor": "Junya Yamaguchi",
+    "genero": "Shounen",
+    "status": "Concluido",
+    "artista": "Junya Yamaguchi",
+    "data_lancamento": "2010-01-01",
+    "sinopse": "BTOOOM! (Battle of TOkyo? ou Battle TOuumou?) — jogadores são transportados para uma ilha isolada e lutam em um jogo de sobrevivência com armas chamadas BTOOOM!. A serie acompanha os jogadores.",
+    "capa_url": null
+  },
+  "volumes_possuidos": [1, 2],
+  "controle": {
+    "manga_id": null,
+    "edicao_brasil": "Kodansha",
+    "colecao": "Kodansha",
+    "volumes_publicados_brasil": 2,
+    "volumes_totais_japao": 26,
+    "status_brasil": "Concluido — usuario possui vols 1-2",
+    "volumes_faltantes": [3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26],
+    "observacao": "BTOOOM! de Junya Yamaguchi, publicado no Monthly Afternoon (Kodansha). Concluido em 26 volumes. JBC/Kodansha publicou edicoes no Brasil. usuario possui vols 1-2.",
+    "isbn_volumes": {
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null,
+      "5": null,
+      "6": null,
+      "7": null,
+      "8": null,
+      "9": null,
+      "10": null,
+      "11": null,
+      "12": null,
+      "13": null,
+      "14": null,
+      "15": null,
+      "16": null,
+      "17": null,
+      "18": null,
+      "19": null,
+      "20": null,
+      "21": null,
+      "22": null,
+      "23": null,
+      "24": null,
+      "25": null,
+      "26": null
+    }
+  }
+}

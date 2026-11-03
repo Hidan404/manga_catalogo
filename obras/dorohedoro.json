@@ -1,0 +1,37 @@
+{
+  "tipo": "manga",
+  "obra": {
+    "titulo": "Dorohedoro",
+    "autor": "Q-Hayashida",
+    "genero": "Seinen",
+    "status": "Concluido",
+    "artista": "Q Hayashida",
+    "data_lancamento": "2021-08-20",
+    "sinopse": "Caiman e totalmente sem sorte. Foi transformado em lagarto por um mago de outra dimensao e so se lembra disso. Junto com seu melhor amigo, Nikaido, Caiman começa a caçar feiticeiros, procurando por aquele que pode desfazer sua maldicao. Mas quando En, o chefe dos feiticeiros, fica sabendo de um homem-lagarto massacrando feiticeiros, ele envia uma equipe de \"limpadores\", iniciando uma guerra entre dois mundos.",
+    "capa_url": null
+  },
+  "volumes_possuidos": [1, 2, 3, 4, 5, 6, 7, 8],
+  "controle": {
+    "edicao_brasil": "Panini (ago/2021 a jun/2023) — completa em 23 vols",
+    "titulo_original": "Dorohedoro (ドロヘドロ)",
+    "autor": "Q Hayashida",
+    "editora_original": "Shogakukan",
+    "publicacao_original": "Monthly Ikki / Hibana / Monthly Shonen Sunday (2000-2018)",
+    "demografia": "Seinen (magara adulto, 18+)",
+    "volumes_publicados_brasil": 23,
+    "volumes_totais_japao": 23,
+    "status_brasil": "Concluido — 23 de 23 volumes",
+    "volumes_faltantes": [],
+    "observacao": "Gore negro, comédia absurda e body horror; 170-218 paginas por vol.; formato 13,7 x 20 cm; capa cartonada fosca. Planet Manga selo. Todas as edicoes sao de dominio publico no Brasil apos 2023.",
+    "isbn_volumes": {
+      "1": "978-65-5982-138-9",
+      "2": "978-65-5982-030-6",
+      "3": "978-65-5960-947-5",
+      "4": "978-65-5960-814-0",
+      "5": "978-65-5960-710-5",
+      "6": "978-65-5960-620-7",
+      "7": "978-65-5960-547-7",
+      "8": "978-65-5960-483-8"
+    }
+  }
+}

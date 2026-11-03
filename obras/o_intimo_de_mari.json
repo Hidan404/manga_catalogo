@@ -1,0 +1,38 @@
+{
+  "tipo": "manga",
+  "obra": {
+    "titulo": "O Íntimo de Mari",
+    "autor": "Shuzo Oshimi",
+    "genero": "Seinen",
+    "status": "Concluido",
+    "artista": "Shuzo Oshimi",
+    "data_lancamento": "2025-10-08",
+    "sinopse": "Komori e um jovem desocupado, sem perspectiva de vida, cujo ponto alto do dia e ver Mari — uma bela colegial — na loja de conveniencia. Um dia, sem razao aparente, ele acorda num quarto que nunca viu antes. Parece o velho clichê da troca de corpos, mas quando Komori encontra Mari, ela nao esta dentro dele: agora existem dois Komoris. Ate onde vai o voyeurismo, a identidade e o desejo de ser visto por alguem?",
+    "capa_url": null
+  },
+  "volumes_possuidos": [1, 2, 4],
+  "controle": {
+    "edicao_brasil": "NewPOP (iniciada em 08/10/2025) — em publicacao",
+    "titulo_original": "Boku wa Mari no Naka (ぼくは麻理のなか) / Inside Mari",
+    "autor": "Shuzo Oshimi — tambem autor de Happiness e Devil Ecstasy",
+    "editora_original": "Futabasha",
+    "publicacao_original": "Manga Action (2012-2016)",
+    "demografia": "Seinen",
+    "volumes_publicados_brasil": 4,
+    "volumes_totais_japao": 9,
+    "status_brasil": "Em publicacao — 4 de 9 volumes lancados no Brasil",
+    "volumes_faltantes": [3, 5, 6, 7, 8, 9],
+    "observacao": "Colecao com faltantes: vol. 3 ja publicado no Brasil (01/04/2026) e ainda nao adquirido; vols. 5-9 ainda nao lancados no Brasil. Datas BR: vol.1 08/10/2025, vol.2 09/02/2026, vol.3 01/04/2026, vol.4 02/07/2026. ISBNs dos vols. 6-9 ainda nao divulgados.",
+    "isbn_volumes": {
+      "1": "978-85-8362-621-3",
+      "2": "978-85-8362-622-0",
+      "3": "978-85-8362-623-7",
+      "4": "978-85-8362-617-6",
+      "5": "978-85-8362-618-3",
+      "6": null,
+      "7": null,
+      "8": null,
+      "9": null
+    }
+  }
+}

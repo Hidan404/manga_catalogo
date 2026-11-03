@@ -1,0 +1,40 @@
+{
+  "tipo": "manga",
+  "obra": {
+    "titulo": "Solo Leveling",
+    "autor": "Chugong (writer) e h-goon (artist)",
+    "genero": "Shounen",
+    "status": "Concluido",
+    "artista": "h-goon",
+    "data_lancamento": "2018-03-04",
+    "sinopse": "Sung Jin-Woo, um caçador de monstros, é forçado a lutar em uma masmorra dungeon. Após sobreviver, ele descobre que pode subir de nível (level up) e se tornar o Guerreiro mais forte do mundo. A serie se tornou um fenômeno global, combinando ação intensa, estratégia e desenvolvimento de personagem.",
+    "capa_url": null
+  },
+  "volumes_possuidos": [1, 2, 3, 4, 5],
+  "controle": {
+    "manga_id": null,
+    "edicao_brasil": "Panini",
+    "colecao": "Panini Mangas",
+    "volumes_publicados_brasil": 5,
+    "volumes_totais_japao": 14,
+    "status_brasil": "Em publicacao — usuario possui vols 1-5",
+    "volumes_faltantes": [6, 7, 8, 9, 10, 11, 12, 13, 14],
+    "observacao": "Solo Leveling: manhwa coreano (na original) escrita por Chugong e ilustrada por h-goon, com traducao japonesa (DUBU). Adaptado para mangá. Anime popular anos 2023+. JBC/Panini publicou edicoes no Brasil. usuario possui vols 1-5.",
+    "isbn_volumes": {
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null,
+      "5": null,
+      "6": null,
+      "7": null,
+      "8": null,
+      "9": null,
+      "10": null,
+      "11": null,
+      "12": null,
+      "13": null,
+      "14": null
+    }
+  }
+}

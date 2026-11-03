@@ -1,0 +1,68 @@
+{
+  "tipo": "manga",
+  "obra": {
+    "titulo": "Alice in Borderland",
+    "autor": "Haro Asada",
+    "genero": "Seinen",
+    "status": "Sem publicacao no Brasil",
+    "artista": "Haro Asada",
+    "data_lancamento": "2010-01-01",
+    "sinopse": "Ryohei Arisu é um jovem desempregado entediado que, junto com suas amigos Chota e Karube, é transportado misteriosamente para um mundo paralelo versionado como um jogo mortal de Tóquio. Para sobreviver, eles devem participar de jogos com regras mortais, testes de coragem e sobrevivência. Cada jogo revela mais sobre a natureza desse novo mundo e a possível maneira de retornar ao original. A série combina suspense, psicológico e ação em um ambiente de jogo da morte.",
+    "capa_url": null
+  },
+  "volumes_possuidos": [
+    1,
+    2,
+    3
+  ],
+  "controle": {
+    "edicao_brasil": "Nao ha edicao comercializada no Brasil ate o momento (2026). Original: 18 volumes, Japan, Haro Asada.",
+    "titulo_original": "Imawa no Kuni no Arisu (今果てのアルイス)",
+    "autor": "Haro Asada",
+    "editora_original": "Kodansha",
+    "publicacao_original": "Shonen Magazine Edge (2010-2015)",
+    "demografia": "Seinen",
+    "volumes_publicados_brasil": 0,
+    "volumes_totais_japao": 18,
+    "status_brasil": "Nao publicado ainda — voces possuem vols 1-3 (provavelmente versao original em japones ou compra externa)",
+    "volumes_faltantes": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "observacao": "Manga de suspense/game mortal que inspirou a serie Netflix. 18 volumes no total. Caso edicao brasileira venha a ser lancada no futuro, os ISBNs serao atualizados. Serie completa: Arisu, Chota, Karube e outros jogadores enfrentam jogos letais para descobrir a verdade sobre esse mundo.",
+    "isbn_volumes": {
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null,
+      "5": null,
+      "6": null,
+      "7": null,
+      "8": null,
+      "9": null,
+      "10": null,
+      "11": null,
+      "12": null,
+      "13": null,
+      "14": null,
+      "15": null,
+      "16": null,
+      "17": null,
+      "18": null
+    }
+  }
+}

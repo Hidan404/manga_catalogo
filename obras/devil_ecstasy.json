@@ -1,0 +1,33 @@
+{
+  "tipo": "manga",
+  "obra": {
+    "titulo": "Devil Ecstasy",
+    "autor": "Shuzo Oshimi",
+    "genero": "Seinen",
+    "status": "Concluido",
+    "artista": "Shuzo Oshimi",
+    "data_lancamento": "2022-04-07",
+    "sinopse": "Um fato insolito anda se repetindo por todo o Japao: homens estao perdendo o cabelo de repente e morrendo com um sorriso largo no rosto. Kusakabe Noboru, calouro da universidade em Tóquio, tem medo extremo de mulheres por um trauma de infancia. Querendo superar isso, ele aceita ir a um encontro em grupo — mas as garotas os abandonam logo. Os dois entao encontram um estranho bordel, Devil Ecstasy, e decidem entrar. O que nao sabem e que o lugar nao e um bordel comum, mas uma casa de succubus: mulheres demonio. A vida dos dois esta prestes a mudar para sempre.",
+    "capa_url": null
+  },
+  "volumes_possuidos": [1, 2, 3, 4],
+  "controle": {
+    "edicao_brasil": "NewPOP (abril de 2022 a abril de 2023)",
+    "titulo_original": "Devil Ecstasy (デビルエクスタシー)",
+    "autor": "Shuzo Oshimi — tambem autor de Happiness e Aku no Hana",
+    "editora_original": "Kodansha",
+    "publicacao_original": "Young Magazine (2005-2006)",
+    "demografia": "Seinen — mangá adulto, classificacao 18 anos",
+    "volumes_publicados_brasil": 4,
+    "volumes_totais_japao": 4,
+    "status_brasil": "Completa — 4 volumes",
+    "volumes_faltantes": [],
+    "observacao": "Erotico com horror (succubus); 220-232 paginas por vol., capa cartonada. Atencao: a pagina do vol. 4 na NewPOP repete o ISBN do vol. 3 (978-85-8362-407-3) — o ISBN real do vol. 4 e 978-85-8362-403-5 (fonte: Mundos Infinitos).",
+    "isbn_volumes": {
+      "1": "978-65-86799-74-3",
+      "2": "978-65-86799-44-6",
+      "3": "978-85-8362-407-3",
+      "4": "978-85-8362-403-5"
+    }
+  }
+}

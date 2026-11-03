@@ -1,0 +1,49 @@
+{
+  "tipo": "manga",
+  "obra": {
+    "titulo": "Berserk",
+    "autor": "Kentaro Miura",
+    "genero": "Seinen",
+    "status": "Em lancamento",
+    "artista": "Kentaro Miura",
+    "data_lancamento": "2014-08-08",
+    "sinopse": "Guts, o \"Espadachim Negro\", carrega em sua mão mecânica uma enorme espada e em seu pescoço uma marca que atrai forças demoniacas. Perseguido por demônios e em busca de vingança contra seu antigo companheiro Griffith, líder do Bando do Falcão, Guts navega por um mundo sombrio de monstros, guerras e traições, forjando laços inesperados — particularmente com a criatura Puck e, mais tarde, o mercenário Isidro. A obra explora os limites da coragem humana, o peso do destino e os laços forjados pela dor em um ritmo brutal e emocional.",
+    "capa_url": null
+  },
+  "volumes_possuidos": [1, 2, 3, 4, 10],
+  "controle": {
+    "edicao_brasil": "Panini Planet Manga (agosto de 2014–) — em publicacao, 84 vols previstos",
+    "titulo_original": "Berserk (ベルセルク)",
+    "autor": "Kentaro Miura — tambem Studio Gaga & Kouji Mori a partir do vol. 42",
+    "editora_original": "Hakusensha",
+    "publicacao_original": "Young Animal (1992–presente)",
+    "demografia": "Seinen — adulto 18+ (violencia extrema, temas maduros)",
+    "volumes_publicados_brasil": 84,
+    "volumes_totais_japao": 43,
+    "status_brasil": "Em publicacao — 84 vols lancados (versao divididida 2005-2010; nova relatoria Planet Manga desde 2014 respeita original)",
+    "volumes_faltantes": [5, 6, 7, 8, 9, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43],
+    "observacao": "Manga lendario de Kentaro Miura (falecido 2021). Anime 1997 e 2016/17. No Brasil: 1ª publicacao 2005 dividindo cada vol em dois (renderam 80 vols); 2ª relatoria Planet Manga desde ago/2014 respeita a contagem original japonesa (43 vols). Volume 10 (02/2016) marca o ponto de transicao entre a primeira e segunda fase de publicacao. ISBNs da edicao De Luxo: vol1 978-85-426-1709-2; vol10 978-85-426-0346-0; demais vols da linha regular nao sempre exibem ISBN no site Panini.",
+    "isbn_volumes": {
+      "1": "978-85-426-1709-2",
+      "2": null,
+      "3": null,
+      "4": null,
+      "10": "978-85-426-0346-0",
+      "5": null,
+      "6": null,
+      "7": null,
+      "8": null,
+      "9": null,
+      "11": null,
+      "12": null,
+      "13": null,
+      "14": null,
+      "15": null,
+      "16": null,
+      "17": null,
+      "18": null,
+      "19": null,
+      "20": null
+    }
+  }
+}

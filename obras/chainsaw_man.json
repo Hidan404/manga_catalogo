@@ -1,0 +1,48 @@
+{
+  "tipo": "manga",
+  "obra": {
+    "titulo": "Chainsaw Man",
+    "autor": "Tatsuki Fujimoto",
+    "genero": "Shounen",
+    "status": "Concluido",
+    "artista": "Tatsuki Fujimoto",
+    "data_lancamento": "2018-01-01",
+    "sinopse": "Denji tem um sonho simples: ter uma namorada e comida. Ele se junta ao Massacre Cult e se transforma em Chainsaw Man para caçar demônios. Mas as coisas não saem como planejado... A serie acompanha Denji enquanto ele luta contra demônios e descobre segredos sobre seu passado.",
+    "capa_url": null
+  },
+  "volumes_possuidos": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 22],
+  "controle": {
+    "manga_id": null,
+    "edicao_brasil": "Panini",
+    "colecao": "Panini Mangas",
+    "volumes_publicados_brasil": 22,
+    "volumes_totais_japao": 22,
+    "status_brasil": "Concluido — usuario possui vols 1-19 e 22",
+    "volumes_faltantes": [20, 21, 23],
+    "observacao": "Chainsaw Man: mangá escrito e ilustrado por Tatsuki Fujimoto, publicado no Weekly Shonen Jump. Parte 1 concluida em 2020. Parte 2 em andamento. JBC/Panini publicou edicoes no Brasil. usuario possui vols 1-19 e 22.",
+    "isbn_volumes": {
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null,
+      "5": null,
+      "6": null,
+      "7": null,
+      "8": null,
+      "9": null,
+      "10": null,
+      "11": null,
+      "12": null,
+      "13": null,
+      "14": null,
+      "15": null,
+      "16": null,
+      "17": null,
+      "18": null,
+      "19": null,
+      "20": null,
+      "21": null,
+      "22": null
+    }
+  }
+}

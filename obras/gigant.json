@@ -1,0 +1,36 @@
+{
+  "tipo": "manga",
+  "obra": {
+    "titulo": "Gigant",
+    "autor": "Hiroya Oku",
+    "genero": "Shounen",
+    "status": "Concluido",
+    "artista": "Hiroya Oku",
+    "data_lancamento": "2017-12-08",
+    "sinopse": "Gigant (Gigante) é um mangá escrito e desenhado por Hiroya Oku (criador de Gantz e Inuyashiki). Publicado na revista Big Comic Superior, a serie acompanha... historias sobre gigantes. Concluida em 10 volumes em 2020.",
+    "capa_url": null
+  },
+  "volumes_possuidos": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+  "controle": {
+    "manga_id": null,
+    "edicao_brasil": "Panini",
+    "colecao": "Panini Mangas",
+    "volumes_publicados_brasil": 10,
+    "volumes_totais_japao": 10,
+    "status_brasil": "Concluida — usuario possui vols 1-10",
+    "volumes_faltantes": [],
+    "observacao": "Gigant: mangá de Hiroya Oku (criador de Gantz e Inuyashiki), publicado na Big Comic Superior a partir de 8/12/2017. Concluido em 10 volumes em 8/08/2020. JBC/Panini publicou edicoes no Brasil. usuario possui vols 1-10 (completo).",
+    "isbn_volumes": {
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null,
+      "5": null,
+      "6": null,
+      "7": null,
+      "8": null,
+      "9": null,
+      "10": null
+    }
+  }
+}

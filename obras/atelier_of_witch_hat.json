@@ -1,0 +1,39 @@
+{
+  "tipo": "manga",
+  "obra": {
+    "titulo": "Atelier of Witch Hat",
+    "autor": "Kamome Shirahama",
+    "genero": "Fantasy",
+    "status": "Em publicacao",
+    "artista": "Kamome Shirahama",
+    "data_lancamento": "2017-04-25",
+    "sinopse": "Uma garota que sonha com magia na vida e aprende que, por dentro, ja e o que quer ser. A historia acompanha Qifrey, uma aprendiz de feiticeira, e sua jornada mágica.",
+    "capa_url": null
+  },
+  "volumes_possuidos": [1, 2, 3],
+  "controle": {
+    "manga_id": null,
+    "edicao_brasil": "Kodansha",
+    "colecao": "Kodansha",
+    "volumes_publicados_brasil": 3,
+    "volumes_totais_japao": 13,
+    "status_brasil": "Em publicacao — usuario possui vols 1-3",
+    "volumes_faltantes": [4, 5, 6, 7, 8, 9, 10, 11, 12, 13],
+    "observacao": "Atelier of Witch Hat (Witch Hat Atelier): mangá de Kamome Shirahama, publicado originalmente como web manga e depois em volumes. JBC/Kodansha publicou edicoes no Brasil. usuario possui vols 1-3.",
+    "isbn_volumes": {
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null,
+      "5": null,
+      "6": null,
+      "7": null,
+      "8": null,
+      "9": null,
+      "10": null,
+      "11": null,
+      "12": null,
+      "13": null
+    }
+  }
+}

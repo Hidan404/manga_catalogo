@@ -1,0 +1,41 @@
+{
+  "tipo": "manga",
+  "obra": {
+    "titulo": "One Punch Man",
+    "autor": "ONE e Yusuke Murata",
+    "genero": "Shounen",
+    "status": "Em publicacao",
+    "artista": "Yusuke Murata",
+    "data_lancamento": "2008-01-01",
+    "sinopse": "Saitama, um homem comum que treinou tanto que pode derrotar qualquer inimigo com um unico golpe. Ele busca se tornar o heroi numero 1, mas esta cansado do caminho... Apesar de tudo, ele continua lutando para proteger o mundo dos viloes.",
+    "capa_url": null
+  },
+  "volumes_possuidos": [1, 11, 12, 15],
+  "controle": {
+    "manga_id": null,
+    "edicao_brasil": "Panini",
+    "colecao": "Panini Mangas",
+    "volumes_publicados_brasil": 15,
+    "volumes_totais_japao": 15,
+    "status_brasil": "Em publicacao — usuario possui vols 1, 11, 12, 15",
+    "volumes_faltantes": [2, 3, 4, 5, 6, 7, 8, 9, 10, 13, 14],
+    "observacao": "One Punch Man: webcomic japonesa criada pelo autor One, publicada desde 2009. Ilustracao pela Yoshitaka Matsumoto (para os tankobons). O autor original ONE escreve as historias, Yusuke Murata ilustra. Anime popular anos 2015+. JBC/Panini publicou edicoes no Brasil. usuario possui vols 1, 11, 12, 15.",
+    "isbn_volumes": {
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null,
+      "5": null,
+      "6": null,
+      "7": null,
+      "8": null,
+      "9": null,
+      "10": null,
+      "11": null,
+      "12": null,
+      "13": null,
+      "14": null,
+      "15": null
+    }
+  }
+}

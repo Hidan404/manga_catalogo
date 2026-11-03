@@ -1,0 +1,42 @@
+{
+  "tipo": "manga",
+  "obra": {
+    "titulo": "Choujin X",
+    "autor": "Sui Ishida",
+    "genero": "Seinen",
+    "status": "Em lancamento",
+    "artista": "Sui Ishida",
+    "data_lancamento": "2023-10-31",
+    "sinopse": "Ha muito tempo o mundo passou a ser habitado tambem por choujins — humanos com poderes extraordinarios, responsaveis por atos destrutivos. Conhecemos os jovens Azuma Higashi (adolescente popular, forte senso de justica, talento em combate) e Tokio Kurohara (que vive na lua durante as aulas e so observa as lutas de Azuma). Ao voltarem para casa, os dois se cruzam com um choujin que ameaca mata-los. Para sobreviver, Tokio nao pode mais ficar no lugar de espectador: ele precisa lutar — e assumir o que virou.",
+    "capa_url": null
+  },
+  "volumes_possuidos": [1, 2, 3],
+  "controle": {
+    "edicao_brasil": "Panini (a partir de outubro de 2023) — em publicacao",
+    "titulo_original": "Choujin X (超人Ｘ)",
+    "autor": "Sui Ishida — criador de Tokyo Ghoul",
+    "editora_original": "Shueisha",
+    "publicacao_original": "Tonari no Young Jump (2021-em publicacao)",
+    "demografia": "Seinen",
+    "volumes_publicados_brasil": 13,
+    "volumes_totais_japao": 16,
+    "status_brasil": "Em publicacao — 13 de 16+ volumes lancados no Brasil",
+    "volumes_faltantes": [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16],
+    "observacao": "Serie em publicacao nos dois paises. Datas BR: vol.1 31/10/2023, vol.2 12/12/2023, vol.3 01/02/2024; vols. 4-13 lancados ate abr/2026 (14-16 ainda sem data BR). ISBNs conhecidos: 1, 2, 3 e 5; demais nao preenchidos por falta de fonte confiavel.",
+    "isbn_volumes": {
+      "1": "978-65-2590-645-4",
+      "2": "978-65-2592-362-8",
+      "3": "978-65-2592-171-6",
+      "4": null,
+      "5": "978-65-2591-739-9",
+      "6": null,
+      "7": null,
+      "8": null,
+      "9": null,
+      "10": null,
+      "11": null,
+      "12": null,
+      "13": null
+    }
+  }
+}
